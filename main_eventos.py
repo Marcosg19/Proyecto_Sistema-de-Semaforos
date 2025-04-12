@@ -55,6 +55,8 @@ class Interseccion:
         self.semaforos = {nombre: Semaforo(env, nombre) for nombre in CALLES}
         self.cola_peatones = [] # Lista de peatones esperando
         self.pasaron_peatones = 0 # Contador de peatones que lograron cruzar
+        self.historial_cola_peatones = []   # Para guardar tamaño de cola de peatones durante toda la simulación
+        self.espera_peatones = []           # Para guardar tiempos de espera de peatones que cruzaron
 
         # Crear procesos de generación de carros y peatones
         for calle in CALLES:
@@ -82,6 +84,7 @@ class Interseccion:
         while True:
             yield self.env.timeout(random.expovariate(1.0 / INTERVALO_LLEGADA_PEATONES))
             self.cola_peatones.append(self.env.now)
+            self.historial_cola_peatones.append(len(self.cola_peatones))
             log_event(f"{self.env.now}: Llega un peaton - Peatones esperando: {len(self.cola_peatones)}")
 
     # Controlador de las fases del semáforo
@@ -137,10 +140,16 @@ class Interseccion:
                     yield self.env.timeout(1)
                     tiempo_disponible -= 1
                 else:
-                    # Cruzan todos los peatones que ya estaban en espera
-                    peatones_que_pasan += peatones_listos
-                    self.pasaron_peatones += peatones_listos
-                    self.cola_peatones.clear()
+                    # TODOS LOS QUE ESTABAN ANTES DE EMPEZAR EL PASO CRUZAN JUNTOS
+                    for _ in range(peatones_listos):
+                        llegada = self.cola_peatones.pop(0)
+                        # Calcular y guardar tiempo de espera
+                        self.espera_peatones.append(self.env.now - llegada)
+                        # Cruzan todos los peatones que ya estaban en espera
+                        peatones_que_pasan += peatones_listos
+                        self.pasaron_peatones += peatones_listos
+                        #self.cola_peatones.clear()
+                        #self.historial_cola_peatones.append(0)
 
                     yield self.env.timeout(TIEMPO_PASO_PEATON)
                     tiempo_disponible -= TIEMPO_PASO_PEATON
@@ -168,19 +177,22 @@ for nombre, semaforo in interseccion.semaforos.items():
     log_event(f"  Total de vehiculos que pasaron: {semaforo.pasados}")
     log_event(f"  Vehiculos que quedaron en espera: {len(semaforo.cola)}")
     log_event(f"  Tiempo promedio de espera: {round(tiempo_prom_espera,2)} seg")
-    log_event(f"  Tamaño promedio de cola: {round(promedio_cola, 2)}")
+    log_event(f"  Tamano promedio de cola: {round(promedio_cola, 2)}")
 
 log_event("\n>>> PEATONES <<<")
 
 # Tiempo promedio de espera de peatones
 tiempo_prom_peatones = sum([interseccion.env.now - llegada for llegada in interseccion.cola_peatones]) / len(interseccion.cola_peatones) if interseccion.cola_peatones else 0
 tamaño_prom_cola_peatones = len(interseccion.cola_peatones)
-
+promedio_tam_cola_peatones = sum(interseccion.historial_cola_peatones) / len(interseccion.historial_cola_peatones) if interseccion.historial_cola_peatones else 0
+promedio_espera_peatones = sum(interseccion.espera_peatones) / len(interseccion.espera_peatones) if interseccion.espera_peatones else 0
 
 log_event(f"Total de peatones que lograron cruzar: {interseccion.pasaron_peatones}")
 log_event(f"Total de peatones que quedaron esperando: {len(interseccion.cola_peatones)}")
-log_event(f"Tiempo promedio de espera de peatones: {round(tiempo_prom_peatones,2)} seg")
-log_event(f"Tamaño promedio de cola de peatones: {tamaño_prom_cola_peatones}")
+
+
+log_event(f"Tiempo promedio de espera de peatones: {round(promedio_espera_peatones,2)} seg")
+log_event(f"Tamano promedio de cola de peatones: {round(promedio_tam_cola_peatones,2)}")
 
 log_event("\n===== FIN DE LOS RESULTADOS =====")
 
@@ -200,7 +212,7 @@ for nombre, semaforo in interseccion.semaforos.items():
 print("\n>>> PEATONES <<<")
 print(f"Total de peatones que lograron cruzar: {interseccion.pasaron_peatones}")
 print(f"Total de peatones que quedaron esperando: {len(interseccion.cola_peatones)}")
-print(f"Tiempo promedio de espera de peatones: {round(tiempo_prom_peatones,2)} seg")
-print(f"Tamaño promedio de cola de peatones: {tamaño_prom_cola_peatones}")
+print(f"Tiempo promedio de espera de peatones: {round(promedio_espera_peatones,2)} seg")
+print(f"Tamaño promedio de cola de peatones: {round(promedio_tam_cola_peatones,2)}")
 
 print("\n===== FIN DE LOS RESULTADOS =====")
