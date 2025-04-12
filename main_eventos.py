@@ -41,6 +41,7 @@ class Semaforo:
         self.nombre = nombre # Nombre de la calle del semáforo
         self.cola = [] # Lista de vehículos esperando
         self.pasados = 0 # Contador de vehículos que lograron cruzar
+        self.historial_tamanos_cola = []  # Para guardar el tamaño de la cola en el tiempo
 
     # Método para agregar un carro a la cola
     def agregar_carro(self, carro):
@@ -68,22 +69,27 @@ class Interseccion:
             yield self.env.timeout(random.expovariate(1.0 / INTERVALO_LLEGADA_CARROS[calle]))
             # Agregar el carro al semáforo correspondiente
             self.semaforos[calle].agregar_carro(self.env.now)
-            log_event(f"{self.env.now}: Llega un vehículo a {calle} - Vehículos en cola: {len(self.semaforos[calle].cola)}")
+            log_event(f"{self.env.now}: Llega un vehiculo a {calle} - Vehiculos en cola: {len(self.semaforos[calle].cola)}")
             tiempo_llega_carro=self.env.now
+            # Al llegar un vehículo
+            self.semaforos[calle].historial_tamanos_cola.append(len(self.semaforos[calle].cola))
+            # Después de que un vehículo cruza
+            self.semaforos[calle].historial_tamanos_cola.append(len(self.semaforos[calle].cola))
+
     
     # Generador de llegada de peatones
     def generar_peatones(self):
         while True:
             yield self.env.timeout(random.expovariate(1.0 / INTERVALO_LLEGADA_PEATONES))
             self.cola_peatones.append(self.env.now)
-            log_event(f"{self.env.now}: Llega un peatón - Peatones esperando: {len(self.cola_peatones)}")
+            log_event(f"{self.env.now}: Llega un peaton - Peatones esperando: {len(self.cola_peatones)}")
 
     # Controlador de las fases del semáforo
     def controlar_semaforos(self):
         while True:
             # Secuencia de semáforos
             for calle in CALLES:
-                log_event(f"\n{self.env.now}: Semáforo VERDE en {calle}")
+                log_event(f"\n{self.env.now}: Semaforo VERDE en {calle}")
                 carros_iniciales = len(self.semaforos[calle].cola)
 
                 tiempo_verde = TIEMPOS_VERDE[calle] # Tiempo que estará en verde
@@ -105,7 +111,7 @@ class Interseccion:
                         yield self.env.timeout(tiempo_inicio_cruce - self.env.now)
                         yield self.env.timeout(tiempo_paso)
 
-                        log_event(f"{tiempo_inicio_cruce+tiempo_paso}: Vehículo en {calle} - Llegó en: {tiempo_llega_carro} - Tiempo de cruce: {round(tiempo_paso,2)} segundos - Termina en: {round(tiempo_inicio_cruce + tiempo_paso,2)} - Vehículos restantes en cola: {len(self.semaforos[calle].cola)}")
+                        log_event(f"{tiempo_inicio_cruce+tiempo_paso}: Vehiculo en {calle} - Llego en: {tiempo_llega_carro} - Tiempo de cruce: {round(tiempo_paso,2)} segundos - Termina en: {round(tiempo_inicio_cruce + tiempo_paso,2)} - Vehiculos restantes en cola: {len(self.semaforos[calle].cola)}")
 
                         ultimo_tiempo_cruce = tiempo_inicio_cruce  # Actualizo el último cruce
                     else:
@@ -115,7 +121,7 @@ class Interseccion:
                 self.semaforos[calle].pasados += carros_que_pasan
 
                 carros_restantes = len(self.semaforos[calle].cola)
-                log_event(f"{self.env.now}: Semáforo ROJO en {calle}")
+                log_event(f"{self.env.now}: Semaforo ROJO en {calle}")
                 log_event(f"Resumen {calle} -> Carros que pasaron: {carros_que_pasan}, Carros en cola: {carros_restantes}")
 
             # Paso peatonal
@@ -150,32 +156,51 @@ interseccion = Interseccion(env)
 env.run(until=TIEMPO_SIMULACION)
 
 # Reporte Final
-log_event("\n===== RESULTADOS FINALES DE LA SIMULACIÓN =====\n")
+log_event("\n===== RESULTADOS FINALES DE LA SIMULACION =====\n")
 
-log_event(">>> Vehículos <<<")
+log_event(">>> VEHICULOS <<<")
 for nombre, semaforo in interseccion.semaforos.items():
-    log_event(f"{nombre}:")
-    log_event(f"  Total de vehículos que pasaron: {semaforo.pasados}")
-    log_event(f"  Vehículos que quedaron en espera: {len(semaforo.cola)}")
+    # Cálculo del tiempo promedio de espera de vehículos en cada calle
+    tiempo_prom_espera = sum([max(0, interseccion.env.now - llegada) for llegada in semaforo.cola]) / len(semaforo.cola) if semaforo.cola else 0
+    promedio_cola = sum(semaforo.historial_tamanos_cola) / len(semaforo.historial_tamanos_cola) if semaforo.historial_tamanos_cola else 0
 
-log_event("\n>>> Peatones <<<")
+    log_event(f"{nombre}:")
+    log_event(f"  Total de vehiculos que pasaron: {semaforo.pasados}")
+    log_event(f"  Vehiculos que quedaron en espera: {len(semaforo.cola)}")
+    log_event(f"  Tiempo promedio de espera: {round(tiempo_prom_espera,2)} seg")
+    log_event(f"  Tamaño promedio de cola: {round(promedio_cola, 2)}")
+
+log_event("\n>>> PEATONES <<<")
+
+# Tiempo promedio de espera de peatones
+tiempo_prom_peatones = sum([interseccion.env.now - llegada for llegada in interseccion.cola_peatones]) / len(interseccion.cola_peatones) if interseccion.cola_peatones else 0
+tamaño_prom_cola_peatones = len(interseccion.cola_peatones)
+
+
 log_event(f"Total de peatones que lograron cruzar: {interseccion.pasaron_peatones}")
 log_event(f"Total de peatones que quedaron esperando: {len(interseccion.cola_peatones)}")
+log_event(f"Tiempo promedio de espera de peatones: {round(tiempo_prom_peatones,2)} seg")
+log_event(f"Tamaño promedio de cola de peatones: {tamaño_prom_cola_peatones}")
 
 log_event("\n===== FIN DE LOS RESULTADOS =====")
 
-print("\n===== RESULTADOS FINALES DE LA SIMULACIÓN =====\n")
+print("\n===== RESULTADOS FINALES DE LA SIMULACION =====\n")
 
-print(">>> Vehículos <<<")
+print(">>> VEHÍCULOS <<<")
 for nombre, semaforo in interseccion.semaforos.items():
-    print(f"{nombre}:")
-    print(f"  Total de vehículos que pasaron: {semaforo.pasados}")
-    print(f"  Vehículos que quedaron en espera: {len(semaforo.cola)}")
+    tiempo_prom_espera = sum([max(0, interseccion.env.now - llegada) for llegada in semaforo.cola]) / len(semaforo.cola) if semaforo.cola else 0
+    promedio_cola = sum(semaforo.historial_tamanos_cola) / len(semaforo.historial_tamanos_cola) if semaforo.historial_tamanos_cola else 0
 
-print("\n>>> Peatones <<<")
+    print(f"{nombre}:")
+    print(f"  Total de vehiculos que pasaron: {semaforo.pasados}")
+    print(f"  Vehiculos que quedaron en espera: {len(semaforo.cola)}")
+    print(f"  Tiempo promedio de espera: {round(tiempo_prom_espera,2)} seg")
+    print(f"  Tamaño promedio de cola: {round(promedio_cola, 2)}")
+
+print("\n>>> PEATONES <<<")
 print(f"Total de peatones que lograron cruzar: {interseccion.pasaron_peatones}")
 print(f"Total de peatones que quedaron esperando: {len(interseccion.cola_peatones)}")
+print(f"Tiempo promedio de espera de peatones: {round(tiempo_prom_peatones,2)} seg")
+print(f"Tamaño promedio de cola de peatones: {tamaño_prom_cola_peatones}")
 
 print("\n===== FIN DE LOS RESULTADOS =====")
-
-log_file.close()

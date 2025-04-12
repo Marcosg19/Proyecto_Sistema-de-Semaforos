@@ -103,14 +103,16 @@ class Interseccion:
 
 # --------------------- Simulación principal --------------------------
 
-resultados = []
+resultados = [] # Lista para almacenar todos los resultados
 
+# Ejecución de todas las simulaciones por escenario y repeticiones
 for escenario in ESCENARIOS:
     for rep in range(REPETS):
         env = simpy.Environment()
         interseccion = Interseccion(env, escenario)
         env.run(until=TIEMPO_SIMULACION)
 
+        # Diccionario para guardar los resultados de esta repetición
         res = {
             "Escenario": escenario["nombre"],
             "Repeticion": rep+1,
