@@ -1,0 +1,119 @@
+RESULTADOS DEL Escenario_4
+
+>>> Tiempos de semáforo <<<
+Norte-L1: 30 segundos
+Sur-L2: 30 segundos
+Este-L3: 120 segundos
+Oeste-L4: 120 segundos
+
+Repetición 1:
+
+>>> Vehículos <<<
+Norte-L1 → Pasaron: 49 | En espera: 47
+Sur-L2 → Pasaron: 54 | En espera: 44
+Este-L3 → Pasaron: 218 | En espera: 50
+Oeste-L4 → Pasaron: 217 | En espera: 53
+
+>>> Peatones <<<
+Cruzaron: 53
+En espera: 10
+
+---- Métricas ----
+Tiempo espera Vehículos: 376.37 seg
+Tiempo espera Peatones: 272.16 seg
+Tamaño promedio de cola en Norte-L1: 46.8
+Tamaño promedio de cola en Sur-L2: 43.0
+Tamaño promedio de cola en Este-L3: 29.2
+Tamaño promedio de cola en Oeste-L4: 39.4
+Tamaño promedio cola Peatones: 10
+
+Repetición 2:
+
+>>> Vehículos <<<
+Norte-L1 → Pasaron: 53 | En espera: 55
+Sur-L2 → Pasaron: 53 | En espera: 54
+Este-L3 → Pasaron: 223 | En espera: 33
+Oeste-L4 → Pasaron: 203 | En espera: 29
+
+>>> Peatones <<<
+Cruzaron: 53
+En espera: 6
+
+---- Métricas ----
+Tiempo espera Vehículos: 268.09 seg
+Tiempo espera Peatones: 135.52 seg
+Tamaño promedio de cola en Norte-L1: 46.8
+Tamaño promedio de cola en Sur-L2: 43.0
+Tamaño promedio de cola en Este-L3: 29.2
+Tamaño promedio de cola en Oeste-L4: 39.4
+Tamaño promedio cola Peatones: 6
+
+Repetición 3:
+
+>>> Vehículos <<<
+Norte-L1 → Pasaron: 51 | En espera: 37
+Sur-L2 → Pasaron: 49 | En espera: 43
+Este-L3 → Pasaron: 216 | En espera: 35
+Oeste-L4 → Pasaron: 219 | En espera: 56
+
+>>> Peatones <<<
+Cruzaron: 51
+En espera: 18
+
+---- Métricas ----
+Tiempo espera Vehículos: 334.98 seg
+Tiempo espera Peatones: 126.41 seg
+Tamaño promedio de cola en Norte-L1: 46.8
+Tamaño promedio de cola en Sur-L2: 43.0
+Tamaño promedio de cola en Este-L3: 29.2
+Tamaño promedio de cola en Oeste-L4: 39.4
+Tamaño promedio cola Peatones: 18
+
+Repetición 4:
+
+>>> Vehículos <<<
+Norte-L1 → Pasaron: 49 | En espera: 30
+Sur-L2 → Pasaron: 54 | En espera: 47
+Este-L3 → Pasaron: 227 | En espera: 7
+Oeste-L4 → Pasaron: 211 | En espera: 30
+
+>>> Peatones <<<
+Cruzaron: 49
+En espera: 7
+
+---- Métricas ----
+Tiempo espera Vehículos: 298.43 seg
+Tiempo espera Peatones: 62.55 seg
+Tamaño promedio de cola en Norte-L1: 46.8
+Tamaño promedio de cola en Sur-L2: 43.0
+Tamaño promedio de cola en Este-L3: 29.2
+Tamaño promedio de cola en Oeste-L4: 39.4
+Tamaño promedio cola Peatones: 7
+
+Repetición 5:
+
+>>> Vehículos <<<
+Norte-L1 → Pasaron: 50 | En espera: 65
+Sur-L2 → Pasaron: 50 | En espera: 27
+Este-L3 → Pasaron: 216 | En espera: 21
+Oeste-L4 → Pasaron: 219 | En espera: 29
+
+>>> Peatones <<<
+Cruzaron: 46
+En espera: 12
+
+---- Métricas ----
+Tiempo espera Vehículos: 286.49 seg
+Tiempo espera Peatones: 135.91 seg
+Tamaño promedio de cola en Norte-L1: 46.8
+Tamaño promedio de cola en Sur-L2: 43.0
+Tamaño promedio de cola en Este-L3: 29.2
+Tamaño promedio de cola en Oeste-L4: 39.4
+Tamaño promedio cola Peatones: 12
+
+===== RESUMEN GENERAL DEL ESCENARIO =====
+
+Promedio Tiempo espera Vehículos: 312.87 seg
+Promedio Tiempo espera Peatones: 146.51 seg
+Promedio Tamaño cola Vehículos: 39.6
+Promedio Tamaño cola Peatones: 10.6

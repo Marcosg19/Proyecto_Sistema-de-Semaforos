@@ -1,0 +1,809 @@
+
+0: Semáforo VERDE en Norte-L1
+2.2642275157049547: Llega un vehículo a Este-L3 - Vehículos en cola: 1
+5.889495026750131: Llega un vehículo a Este-L3 - Vehículos en cola: 2
+7.0742989640671405: Llega un vehículo a Norte-L1 - Vehículos en cola: 1
+8.895472410864194: Llega un vehículo a Norte-L1 - Vehículos en cola: 1
+9.104696554124027: Llega un vehículo a Este-L3 - Vehículos en cola: 3
+10.715992486588567: Vehículo en Norte-L1 - Llegó en: 7.0742989640671405 - Tiempo de cruce: 2.72 segundos - Termina en: 10.72 - Vehículos restantes en cola: 1
+13.186021593850283: Vehículo en Norte-L1 - Llegó en: 8.895472410864194 - Tiempo de cruce: 2.47 segundos - Termina en: 13.19 - Vehículos restantes en cola: 0
+14.409510922259189: Llega un peatón - Peatones esperando: 1
+18.827918494576945: Llega un vehículo a Sur-L2 - Vehículos en cola: 1
+19.738613077825967: Llega un vehículo a Este-L3 - Vehículos en cola: 4
+20.37180897921414: Llega un vehículo a Oeste-L4 - Vehículos en cola: 1
+21.785589802968328: Llega un vehículo a Oeste-L4 - Vehículos en cola: 2
+23.43177278777472: Llega un vehículo a Oeste-L4 - Vehículos en cola: 3
+26.400955341753782: Llega un vehículo a Este-L3 - Vehículos en cola: 5
+26.874902485754298: Llega un vehículo a Norte-L1 - Vehículos en cola: 1
+28.997383782128654: Llega un vehículo a Oeste-L4 - Vehículos en cola: 4
+30.090804880500393: Vehículo en Norte-L1 - Llegó en: 26.874902485754298 - Tiempo de cruce: 2.9 segundos - Termina en: 30.09 - Vehículos restantes en cola: 0
+30.090804880500393: Semáforo ROJO en Norte-L1
+Resumen Norte-L1 -> Carros que pasaron: 3, Carros en cola: 0
+
+30.090804880500393: Semáforo VERDE en Sur-L2
+30.160466970787805: Llega un vehículo a Oeste-L4 - Vehículos en cola: 5
+33.58163293262452: Llega un vehículo a Oeste-L4 - Vehículos en cola: 6
+33.73551330809456: Vehículo en Sur-L2 - Llegó en: 18.827918494576945 - Tiempo de cruce: 2.64 segundos - Termina en: 33.74 - Vehículos restantes en cola: 0
+33.927517739861976: Llega un vehículo a Este-L3 - Vehículos en cola: 6
+34.9551170073587: Llega un vehículo a Oeste-L4 - Vehículos en cola: 7
+40.837896143445846: Llega un vehículo a Oeste-L4 - Vehículos en cola: 8
+42.93776438015962: Llega un peatón - Peatones esperando: 2
+43.667998939382045: Llega un vehículo a Sur-L2 - Vehículos en cola: 1
+45.07255908410724: Llega un vehículo a Norte-L1 - Vehículos en cola: 1
+45.942405920766326: Vehículo en Sur-L2 - Llegó en: 43.667998939382045 - Tiempo de cruce: 2.21 segundos - Termina en: 45.94 - Vehículos restantes en cola: 0
+47.08662038235518: Llega un vehículo a Este-L3 - Vehículos en cola: 7
+48.60161000223406: Llega un vehículo a Sur-L2 - Vehículos en cola: 1
+50.31124398609854: Llega un vehículo a Sur-L2 - Vehículos en cola: 1
+51.78154413339106: Llega un vehículo a Este-L3 - Vehículos en cola: 8
+51.877212614403284: Vehículo en Sur-L2 - Llegó en: 48.60161000223406 - Tiempo de cruce: 2.93 segundos - Termina en: 51.88 - Vehículos restantes en cola: 1
+54.02414701216998: Vehículo en Sur-L2 - Llegó en: 50.31124398609854 - Tiempo de cruce: 2.15 segundos - Termina en: 54.02 - Vehículos restantes en cola: 0
+56.80444094104607: Llega un vehículo a Este-L3 - Vehículos en cola: 9
+59.47209836837287: Llega un vehículo a Sur-L2 - Vehículos en cola: 1
+59.734783060221616: Llega un vehículo a Este-L3 - Vehículos en cola: 10
+61.28253268099526: Llega un vehículo a Este-L3 - Vehículos en cola: 11
+61.76638314318929: Llega un vehículo a Oeste-L4 - Vehículos en cola: 9
+62.45627353504708: Llega un vehículo a Oeste-L4 - Vehículos en cola: 10
+62.47130431328074: Vehículo en Sur-L2 - Llegó en: 59.47209836837287 - Tiempo de cruce: 2.45 segundos - Termina en: 62.47 - Vehículos restantes en cola: 0
+62.47130431328074: Semáforo ROJO en Sur-L2
+Resumen Sur-L2 -> Carros que pasaron: 5, Carros en cola: 0
+
+62.47130431328074: Semáforo VERDE en Este-L3
+65.63946338317236: Vehículo en Este-L3 - Llegó en: 2.2642275157049547 - Tiempo de cruce: 2.17 segundos - Termina en: 65.64 - Vehículos restantes en cola: 10
+65.90214042449333: Llega un vehículo a Sur-L2 - Vehículos en cola: 1
+67.86823074671878: Vehículo en Este-L3 - Llegó en: 5.889495026750131 - Tiempo de cruce: 2.23 segundos - Termina en: 67.87 - Vehículos restantes en cola: 9
+69.86939848036083: Llega un vehículo a Oeste-L4 - Vehículos en cola: 11
+70.60764460720955: Vehículo en Este-L3 - Llegó en: 9.104696554124027 - Tiempo de cruce: 2.74 segundos - Termina en: 70.61 - Vehículos restantes en cola: 8
+71.9398462099935: Llega un vehículo a Sur-L2 - Vehículos en cola: 2
+73.02960208421553: Vehículo en Este-L3 - Llegó en: 19.738613077825967 - Tiempo de cruce: 2.42 segundos - Termina en: 73.03 - Vehículos restantes en cola: 7
+73.64911655261389: Llega un peatón - Peatones esperando: 3
+75.91589821704304: Llega un vehículo a Este-L3 - Vehículos en cola: 7
+75.9929097624929: Vehículo en Este-L3 - Llegó en: 26.400955341753782 - Tiempo de cruce: 2.96 segundos - Termina en: 75.99 - Vehículos restantes en cola: 7
+76.66072255460418: Llega un vehículo a Sur-L2 - Vehículos en cola: 3
+78.09935454551662: Vehículo en Este-L3 - Llegó en: 33.927517739861976 - Tiempo de cruce: 2.11 segundos - Termina en: 78.1 - Vehículos restantes en cola: 6
+80.5438642866532: Vehículo en Este-L3 - Llegó en: 47.08662038235518 - Tiempo de cruce: 2.44 segundos - Termina en: 80.54 - Vehículos restantes en cola: 5
+80.89019480607598: Llega un peatón - Peatones esperando: 4
+82.32939809690147: Llega un vehículo a Este-L3 - Vehículos en cola: 5
+82.58724235437235: Vehículo en Este-L3 - Llegó en: 51.78154413339106 - Tiempo de cruce: 2.04 segundos - Termina en: 82.59 - Vehículos restantes en cola: 5
+85.43243467407989: Vehículo en Este-L3 - Llegó en: 56.80444094104607 - Tiempo de cruce: 2.85 segundos - Termina en: 85.43 - Vehículos restantes en cola: 4
+88.40097571046542: Vehículo en Este-L3 - Llegó en: 59.734783060221616 - Tiempo de cruce: 2.97 segundos - Termina en: 88.4 - Vehículos restantes en cola: 3
+91.2673207502684: Vehículo en Este-L3 - Llegó en: 61.28253268099526 - Tiempo de cruce: 2.87 segundos - Termina en: 91.27 - Vehículos restantes en cola: 2
+91.4037128717714: Llega un vehículo a Norte-L1 - Vehículos en cola: 2
+92.2731596299538: Llega un vehículo a Oeste-L4 - Vehículos en cola: 12
+94.25728374991954: Vehículo en Este-L3 - Llegó en: 75.91589821704304 - Tiempo de cruce: 2.99 segundos - Termina en: 94.26 - Vehículos restantes en cola: 1
+96.4737050576056: Vehículo en Este-L3 - Llegó en: 82.32939809690147 - Tiempo de cruce: 2.22 segundos - Termina en: 96.47 - Vehículos restantes en cola: 0
+98.2348460671876: Llega un vehículo a Este-L3 - Vehículos en cola: 1
+99.2282633779887: Llega un vehículo a Oeste-L4 - Vehículos en cola: 13
+100.81150446107809: Vehículo en Este-L3 - Llegó en: 98.2348460671876 - Tiempo de cruce: 2.34 segundos - Termina en: 100.81 - Vehículos restantes en cola: 0
+103.57336850417425: Llega un vehículo a Norte-L1 - Vehículos en cola: 3
+103.87564387759248: Llega un vehículo a Oeste-L4 - Vehículos en cola: 14
+114.4640371978021: Llega un vehículo a Sur-L2 - Vehículos en cola: 4
+118.17323247774235: Llega un vehículo a Oeste-L4 - Vehículos en cola: 15
+118.4407143506883: Llega un vehículo a Este-L3 - Vehículos en cola: 1
+121.35321523655773: Vehículo en Este-L3 - Llegó en: 118.4407143506883 - Tiempo de cruce: 2.54 segundos - Termina en: 121.35 - Vehículos restantes en cola: 0
+122.21481044323485: Llega un vehículo a Sur-L2 - Vehículos en cola: 5
+123.35321523655773: Semáforo ROJO en Este-L3
+Resumen Este-L3 -> Carros que pasaron: 15, Carros en cola: 0
+
+123.35321523655773: Semáforo VERDE en Oeste-L4
+124.58484608372225: Llega un vehículo a Este-L3 - Vehículos en cola: 1
+126.50330823583259: Vehículo en Oeste-L4 - Llegó en: 20.37180897921414 - Tiempo de cruce: 2.15 segundos - Termina en: 126.5 - Vehículos restantes en cola: 14
+128.74917609074538: Vehículo en Oeste-L4 - Llegó en: 21.785589802968328 - Tiempo de cruce: 2.25 segundos - Termina en: 128.75 - Vehículos restantes en cola: 13
+130.8006279063311: Llega un vehículo a Oeste-L4 - Vehículos en cola: 13
+131.24825656079958: Vehículo en Oeste-L4 - Llegó en: 23.43177278777472 - Tiempo de cruce: 2.5 segundos - Termina en: 131.25 - Vehículos restantes en cola: 13
+131.79271226962382: Llega un vehículo a Este-L3 - Vehículos en cola: 2
+132.5268533355306: Llega un vehículo a Norte-L1 - Vehículos en cola: 4
+133.2643296940403: Vehículo en Oeste-L4 - Llegó en: 28.997383782128654 - Tiempo de cruce: 2.02 segundos - Termina en: 133.26 - Vehículos restantes en cola: 12
+134.9115491682381: Llega un vehículo a Oeste-L4 - Vehículos en cola: 12
+135.6653327008124: Vehículo en Oeste-L4 - Llegó en: 30.160466970787805 - Tiempo de cruce: 2.4 segundos - Termina en: 135.67 - Vehículos restantes en cola: 12
+136.21524593883612: Llega un vehículo a Sur-L2 - Vehículos en cola: 6
+137.21719525154046: Llega un vehículo a Oeste-L4 - Vehículos en cola: 12
+137.49007374050362: Llega un vehículo a Oeste-L4 - Vehículos en cola: 13
+137.5217268653007: Llega un vehículo a Este-L3 - Vehículos en cola: 3
+138.32631495466893: Vehículo en Oeste-L4 - Llegó en: 33.58163293262452 - Tiempo de cruce: 2.66 segundos - Termina en: 138.33 - Vehículos restantes en cola: 13
+140.20434383421141: Llega un vehículo a Oeste-L4 - Vehículos en cola: 13
+140.3343505861662: Llega un vehículo a Norte-L1 - Vehículos en cola: 5
+140.90682726470715: Vehículo en Oeste-L4 - Llegó en: 34.9551170073587 - Tiempo de cruce: 2.58 segundos - Termina en: 140.91 - Vehículos restantes en cola: 13
+141.4806232029846: Llega un vehículo a Este-L3 - Vehículos en cola: 4
+141.69563102005554: Llega un vehículo a Oeste-L4 - Vehículos en cola: 13
+143.90600454569625: Vehículo en Oeste-L4 - Llegó en: 40.837896143445846 - Tiempo de cruce: 3.0 segundos - Termina en: 143.91 - Vehículos restantes en cola: 13
+146.78246227295827: Vehículo en Oeste-L4 - Llegó en: 61.76638314318929 - Tiempo de cruce: 2.88 segundos - Termina en: 146.78 - Vehículos restantes en cola: 12
+148.98927173522262: Vehículo en Oeste-L4 - Llegó en: 62.45627353504708 - Tiempo de cruce: 2.21 segundos - Termina en: 148.99 - Vehículos restantes en cola: 11
+150.09754345241004: Llega un vehículo a Oeste-L4 - Vehículos en cola: 11
+151.4622989779906: Vehículo en Oeste-L4 - Llegó en: 69.86939848036083 - Tiempo de cruce: 2.47 segundos - Termina en: 151.46 - Vehículos restantes en cola: 11
+152.29510705256365: Llega un vehículo a Este-L3 - Vehículos en cola: 5
+153.99157489716362: Vehículo en Oeste-L4 - Llegó en: 92.2731596299538 - Tiempo de cruce: 2.53 segundos - Termina en: 153.99 - Vehículos restantes en cola: 10
+156.8606470940791: Vehículo en Oeste-L4 - Llegó en: 99.2282633779887 - Tiempo de cruce: 2.87 segundos - Termina en: 156.86 - Vehículos restantes en cola: 9
+158.90496381628262: Vehículo en Oeste-L4 - Llegó en: 103.87564387759248 - Tiempo de cruce: 2.04 segundos - Termina en: 158.9 - Vehículos restantes en cola: 8
+159.54777057431826: Llega un vehículo a Este-L3 - Vehículos en cola: 6
+160.93941416140822: Llega un vehículo a Norte-L1 - Vehículos en cola: 6
+161.30765714911416: Vehículo en Oeste-L4 - Llegó en: 118.17323247774235 - Tiempo de cruce: 2.4 segundos - Termina en: 161.31 - Vehículos restantes en cola: 7
+161.3918325624659: Llega un vehículo a Este-L3 - Vehículos en cola: 7
+163.44066684432156: Llega un vehículo a Sur-L2 - Vehículos en cola: 7
+163.57859698743465: Vehículo en Oeste-L4 - Llegó en: 130.8006279063311 - Tiempo de cruce: 2.27 segundos - Termina en: 163.58 - Vehículos restantes en cola: 6
+166.41998131833913: Vehículo en Oeste-L4 - Llegó en: 134.9115491682381 - Tiempo de cruce: 2.84 segundos - Termina en: 166.42 - Vehículos restantes en cola: 5
+169.33813514514551: Vehículo en Oeste-L4 - Llegó en: 137.21719525154046 - Tiempo de cruce: 2.92 segundos - Termina en: 169.34 - Vehículos restantes en cola: 4
+171.38372217296035: Vehículo en Oeste-L4 - Llegó en: 137.49007374050362 - Tiempo de cruce: 2.05 segundos - Termina en: 171.38 - Vehículos restantes en cola: 3
+173.24136630416066: Llega un peatón - Peatones esperando: 5
+173.46897837717503: Vehículo en Oeste-L4 - Llegó en: 140.20434383421141 - Tiempo de cruce: 2.09 segundos - Termina en: 173.47 - Vehículos restantes en cola: 2
+173.7234583328431: Llega un vehículo a Oeste-L4 - Vehículos en cola: 2
+175.82179379289428: Vehículo en Oeste-L4 - Llegó en: 141.69563102005554 - Tiempo de cruce: 2.35 segundos - Termina en: 175.82 - Vehículos restantes en cola: 2
+178.20885445950535: Vehículo en Oeste-L4 - Llegó en: 150.09754345241004 - Tiempo de cruce: 2.39 segundos - Termina en: 178.21 - Vehículos restantes en cola: 1
+180.68280437641494: Vehículo en Oeste-L4 - Llegó en: 173.7234583328431 - Tiempo de cruce: 2.47 segundos - Termina en: 180.68 - Vehículos restantes en cola: 0
+183.68280437641494: Semáforo ROJO en Oeste-L4
+Resumen Oeste-L4 -> Carros que pasaron: 23, Carros en cola: 0
+
+183.68280437641494: Paso peatonal activado - Todos en ROJO
+184.38997785762155: Llega un vehículo a Oeste-L4 - Vehículos en cola: 1
+186.57367024654576: Llega un vehículo a Sur-L2 - Vehículos en cola: 8
+186.67092086215465: Llega un vehículo a Norte-L1 - Vehículos en cola: 7
+187.3494247933447: Llega un vehículo a Este-L3 - Vehículos en cola: 8
+190.88263513420642: Llega un vehículo a Este-L3 - Vehículos en cola: 9
+192.06788491106124: Llega un vehículo a Este-L3 - Vehículos en cola: 10
+196.3080514320489: Llega un vehículo a Norte-L1 - Vehículos en cola: 8
+196.476036275386: Llega un vehículo a Sur-L2 - Vehículos en cola: 9
+197.54898619757824: Llega un vehículo a Oeste-L4 - Vehículos en cola: 2
+198.68280437641494: Peatones que pasaron: 5, Peatones que quedaron: 0
+
+199.68280437641494: Semáforo VERDE en Norte-L1
+200.19709175876298: Llega un vehículo a Oeste-L4 - Vehículos en cola: 3
+201.82676877020154: Llega un vehículo a Este-L3 - Vehículos en cola: 11
+203.1073386428912: Vehículo en Norte-L1 - Llegó en: 45.07255908410724 - Tiempo de cruce: 2.42 segundos - Termina en: 203.11 - Vehículos restantes en cola: 7
+203.5610862211988: Llega un vehículo a Este-L3 - Vehículos en cola: 12
+203.72853585784225: Llega un peatón - Peatones esperando: 1
+204.9953424849163: Llega un vehículo a Oeste-L4 - Vehículos en cola: 4
+205.44091857880352: Vehículo en Norte-L1 - Llegó en: 91.4037128717714 - Tiempo de cruce: 2.33 segundos - Termina en: 205.44 - Vehículos restantes en cola: 6
+206.01459875029298: Llega un vehículo a Oeste-L4 - Vehículos en cola: 5
+207.97307512446906: Vehículo en Norte-L1 - Llegó en: 103.57336850417425 - Tiempo de cruce: 2.53 segundos - Termina en: 207.97 - Vehículos restantes en cola: 5
+208.0406973308666: Llega un peatón - Peatones esperando: 2
+210.48993090216513: Vehículo en Norte-L1 - Llegó en: 132.5268533355306 - Tiempo de cruce: 2.52 segundos - Termina en: 210.49 - Vehículos restantes en cola: 4
+213.12930368140485: Vehículo en Norte-L1 - Llegó en: 140.3343505861662 - Tiempo de cruce: 2.64 segundos - Termina en: 213.13 - Vehículos restantes en cola: 3
+215.10289135553816: Llega un vehículo a Norte-L1 - Vehículos en cola: 3
+215.28789303228112: Vehículo en Norte-L1 - Llegó en: 160.93941416140822 - Tiempo de cruce: 2.16 segundos - Termina en: 215.29 - Vehículos restantes en cola: 3
+216.3369986612114: Llega un vehículo a Oeste-L4 - Vehículos en cola: 6
+216.403643081544: Llega un vehículo a Oeste-L4 - Vehículos en cola: 7
+217.09492634259837: Llega un vehículo a Este-L3 - Vehículos en cola: 13
+218.09283747962687: Vehículo en Norte-L1 - Llegó en: 186.67092086215465 - Tiempo de cruce: 2.8 segundos - Termina en: 218.09 - Vehículos restantes en cola: 2
+220.53083950060292: Vehículo en Norte-L1 - Llegó en: 196.3080514320489 - Tiempo de cruce: 2.44 segundos - Termina en: 220.53 - Vehículos restantes en cola: 1
+221.77165639177053: Llega un vehículo a Oeste-L4 - Vehículos en cola: 8
+222.15289333660525: Llega un vehículo a Oeste-L4 - Vehículos en cola: 9
+223.39432927991373: Vehículo en Norte-L1 - Llegó en: 215.10289135553816 - Tiempo de cruce: 2.86 segundos - Termina en: 223.39 - Vehículos restantes en cola: 0
+223.97204999324222: Llega un vehículo a Sur-L2 - Vehículos en cola: 10
+224.2723748482345: Llega un vehículo a Este-L3 - Vehículos en cola: 14
+228.67192012998186: Llega un vehículo a Sur-L2 - Vehículos en cola: 11
+230.39432927991373: Semáforo ROJO en Norte-L1
+Resumen Norte-L1 -> Carros que pasaron: 9, Carros en cola: 0
+
+230.39432927991373: Semáforo VERDE en Sur-L2
+230.73418503125382: Llega un vehículo a Este-L3 - Vehículos en cola: 15
+231.45166179765056: Llega un vehículo a Oeste-L4 - Vehículos en cola: 10
+232.19251380375692: Llega un vehículo a Norte-L1 - Vehículos en cola: 1
+232.47265083116758: Llega un vehículo a Norte-L1 - Vehículos en cola: 2
+233.64315703338065: Vehículo en Sur-L2 - Llegó en: 65.90214042449333 - Tiempo de cruce: 2.25 segundos - Termina en: 233.64 - Vehículos restantes en cola: 10
+236.05942825278294: Vehículo en Sur-L2 - Llegó en: 71.9398462099935 - Tiempo de cruce: 2.42 segundos - Termina en: 236.06 - Vehículos restantes en cola: 9
+236.27226797279292: Llega un vehículo a Oeste-L4 - Vehículos en cola: 11
+238.74218005220288: Vehículo en Sur-L2 - Llegó en: 76.66072255460418 - Tiempo de cruce: 2.68 segundos - Termina en: 238.74 - Vehículos restantes en cola: 8
+240.40715034188122: Llega un vehículo a Este-L3 - Vehículos en cola: 16
+241.4779793081524: Vehículo en Sur-L2 - Llegó en: 114.4640371978021 - Tiempo de cruce: 2.74 segundos - Termina en: 241.48 - Vehículos restantes en cola: 7
+241.69672339801394: Llega un vehículo a Sur-L2 - Vehículos en cola: 7
+242.56722233593013: Llega un peatón - Peatones esperando: 3
+243.79376014353133: Llega un vehículo a Oeste-L4 - Vehículos en cola: 12
+244.04629571445528: Vehículo en Sur-L2 - Llegó en: 122.21481044323485 - Tiempo de cruce: 2.57 segundos - Termina en: 244.05 - Vehículos restantes en cola: 7
+246.8255459547603: Vehículo en Sur-L2 - Llegó en: 136.21524593883612 - Tiempo de cruce: 2.78 segundos - Termina en: 246.83 - Vehículos restantes en cola: 6
+248.48299992868624: Llega un peatón - Peatones esperando: 4
+249.60327432607681: Vehículo en Sur-L2 - Llegó en: 163.44066684432156 - Tiempo de cruce: 2.78 segundos - Termina en: 249.6 - Vehículos restantes en cola: 5
+251.2917687321035: Llega un vehículo a Sur-L2 - Vehículos en cola: 5
+252.0524187176896: Llega un vehículo a Oeste-L4 - Vehículos en cola: 13
+252.44314226732052: Vehículo en Sur-L2 - Llegó en: 186.57367024654576 - Tiempo de cruce: 2.84 segundos - Termina en: 252.44 - Vehículos restantes en cola: 5
+254.90517884444026: Vehículo en Sur-L2 - Llegó en: 196.476036275386 - Tiempo de cruce: 2.46 segundos - Termina en: 254.91 - Vehículos restantes en cola: 4
+255.69358295568028: Llega un vehículo a Oeste-L4 - Vehículos en cola: 14
+257.6946045192165: Vehículo en Sur-L2 - Llegó en: 223.97204999324222 - Tiempo de cruce: 2.79 segundos - Termina en: 257.69 - Vehículos restantes en cola: 3
+260.6359655088524: Vehículo en Sur-L2 - Llegó en: 228.67192012998186 - Tiempo de cruce: 2.94 segundos - Termina en: 260.64 - Vehículos restantes en cola: 2
+260.6359655088524: Semáforo ROJO en Sur-L2
+Resumen Sur-L2 -> Carros que pasaron: 11, Carros en cola: 2
+
+260.6359655088524: Semáforo VERDE en Este-L3
+261.3226017592933: Llega un vehículo a Este-L3 - Vehículos en cola: 16
+261.35145331794496: Llega un vehículo a Norte-L1 - Vehículos en cola: 3
+263.72144461257136: Llega un vehículo a Oeste-L4 - Vehículos en cola: 15
+263.817942766303: Vehículo en Este-L3 - Llegó en: 124.58484608372225 - Tiempo de cruce: 2.18 segundos - Termina en: 263.82 - Vehículos restantes en cola: 16
+264.15467066928557: Llega un vehículo a Oeste-L4 - Vehículos en cola: 16
+264.8075843245105: Llega un vehículo a Este-L3 - Vehículos en cola: 16
+266.1103265397173: Vehículo en Este-L3 - Llegó en: 131.79271226962382 - Tiempo de cruce: 2.29 segundos - Termina en: 266.11 - Vehículos restantes en cola: 16
+268.17763845997143: Vehículo en Este-L3 - Llegó en: 137.5217268653007 - Tiempo de cruce: 2.07 segundos - Termina en: 268.18 - Vehículos restantes en cola: 15
+270.54131971840513: Vehículo en Este-L3 - Llegó en: 141.4806232029846 - Tiempo de cruce: 2.36 segundos - Termina en: 270.54 - Vehículos restantes en cola: 14
+272.72878223800836: Vehículo en Este-L3 - Llegó en: 152.29510705256365 - Tiempo de cruce: 2.19 segundos - Termina en: 272.73 - Vehículos restantes en cola: 13
+273.34229702944947: Llega un vehículo a Oeste-L4 - Vehículos en cola: 17
+274.86880832385106: Vehículo en Este-L3 - Llegó en: 159.54777057431826 - Tiempo de cruce: 2.14 segundos - Termina en: 274.87 - Vehículos restantes en cola: 12
+276.95056132760556: Vehículo en Este-L3 - Llegó en: 161.3918325624659 - Tiempo de cruce: 2.08 segundos - Termina en: 276.95 - Vehículos restantes en cola: 11
+277.5241917895285: Llega un vehículo a Norte-L1 - Vehículos en cola: 4
+279.0113339717699: Vehículo en Este-L3 - Llegó en: 187.3494247933447 - Tiempo de cruce: 2.06 segundos - Termina en: 279.01 - Vehículos restantes en cola: 10
+279.4366814254681: Llega un vehículo a Norte-L1 - Vehículos en cola: 5
+281.47339378281174: Vehículo en Este-L3 - Llegó en: 190.88263513420642 - Tiempo de cruce: 2.46 segundos - Termina en: 281.47 - Vehículos restantes en cola: 9
+283.6203999445579: Llega un vehículo a Sur-L2 - Vehículos en cola: 3
+283.8301175917582: Vehículo en Este-L3 - Llegó en: 192.06788491106124 - Tiempo de cruce: 2.36 segundos - Termina en: 283.83 - Vehículos restantes en cola: 8
+284.9326082046956: Llega un peatón - Peatones esperando: 5
+286.4063680728717: Llega un vehículo a Este-L3 - Vehículos en cola: 8
+286.5633096652454: Vehículo en Este-L3 - Llegó en: 201.82676877020154 - Tiempo de cruce: 2.73 segundos - Termina en: 286.56 - Vehículos restantes en cola: 8
+288.5810797562558: Vehículo en Este-L3 - Llegó en: 203.5610862211988 - Tiempo de cruce: 2.02 segundos - Termina en: 288.58 - Vehículos restantes en cola: 7
+290.15974469073575: Llega un vehículo a Sur-L2 - Vehículos en cola: 4
+291.04649932598846: Vehículo en Este-L3 - Llegó en: 217.09492634259837 - Tiempo de cruce: 2.47 segundos - Termina en: 291.05 - Vehículos restantes en cola: 6
+292.5173074101271: Llega un vehículo a Oeste-L4 - Vehículos en cola: 18
+293.31381408328195: Llega un vehículo a Este-L3 - Vehículos en cola: 6
+293.8291675954312: Vehículo en Este-L3 - Llegó en: 224.2723748482345 - Tiempo de cruce: 2.78 segundos - Termina en: 293.83 - Vehículos restantes en cola: 6
+293.9546376585203: Llega un vehículo a Sur-L2 - Vehículos en cola: 5
+295.5522672981299: Llega un vehículo a Oeste-L4 - Vehículos en cola: 19
+296.7184765855005: Vehículo en Este-L3 - Llegó en: 230.73418503125382 - Tiempo de cruce: 2.89 segundos - Termina en: 296.72 - Vehículos restantes en cola: 5
+298.20839401824077: Llega un vehículo a Norte-L1 - Vehículos en cola: 6
+299.1144283888424: Vehículo en Este-L3 - Llegó en: 240.40715034188122 - Tiempo de cruce: 2.4 segundos - Termina en: 299.11 - Vehículos restantes en cola: 4
+301.89760729600994: Vehículo en Este-L3 - Llegó en: 261.3226017592933 - Tiempo de cruce: 2.78 segundos - Termina en: 301.9 - Vehículos restantes en cola: 3
+303.66367651017356: Llega un vehículo a Oeste-L4 - Vehículos en cola: 20
+304.6067914110061: Llega un vehículo a Este-L3 - Vehículos en cola: 3
+304.83910883910494: Vehículo en Este-L3 - Llegó en: 264.8075843245105 - Tiempo de cruce: 2.94 segundos - Termina en: 304.84 - Vehículos restantes en cola: 3
+307.47415548272613: Vehículo en Este-L3 - Llegó en: 286.4063680728717 - Tiempo de cruce: 2.64 segundos - Termina en: 307.47 - Vehículos restantes en cola: 2
+307.95527532997863: Llega un vehículo a Oeste-L4 - Vehículos en cola: 21
+309.71052120978237: Vehículo en Este-L3 - Llegó en: 293.31381408328195 - Tiempo de cruce: 2.24 segundos - Termina en: 309.71 - Vehículos restantes en cola: 1
+311.0250833946041: Llega un vehículo a Oeste-L4 - Vehículos en cola: 22
+312.4363292749773: Vehículo en Este-L3 - Llegó en: 304.6067914110061 - Tiempo de cruce: 2.73 segundos - Termina en: 312.44 - Vehículos restantes en cola: 0
+316.7094705731894: Llega un vehículo a Sur-L2 - Vehículos en cola: 6
+316.78103357125855: Llega un vehículo a Oeste-L4 - Vehículos en cola: 23
+317.30868529697204: Llega un peatón - Peatones esperando: 6
+319.19178193429303: Llega un vehículo a Oeste-L4 - Vehículos en cola: 24
+321.4363292749773: Semáforo ROJO en Este-L3
+Resumen Este-L3 -> Carros que pasaron: 21, Carros en cola: 0
+
+321.4363292749773: Semáforo VERDE en Oeste-L4
+321.5434079979216: Llega un peatón - Peatones esperando: 7
+321.62940408127406: Llega un vehículo a Este-L3 - Vehículos en cola: 1
+323.6703871938442: Llega un vehículo a Este-L3 - Vehículos en cola: 2
+323.67862279916983: Llega un vehículo a Norte-L1 - Vehículos en cola: 7
+324.9978637569215: Vehículo en Oeste-L4 - Llegó en: 184.38997785762155 - Tiempo de cruce: 2.56 segundos - Termina en: 325.0 - Vehículos restantes en cola: 23
+327.36871744575524: Vehículo en Oeste-L4 - Llegó en: 197.54898619757824 - Tiempo de cruce: 2.37 segundos - Termina en: 327.37 - Vehículos restantes en cola: 22
+329.47863208252477: Vehículo en Oeste-L4 - Llegó en: 200.19709175876298 - Tiempo de cruce: 2.11 segundos - Termina en: 329.48 - Vehículos restantes en cola: 21
+331.85264610512894: Vehículo en Oeste-L4 - Llegó en: 204.9953424849163 - Tiempo de cruce: 2.37 segundos - Termina en: 331.85 - Vehículos restantes en cola: 20
+332.8664528168514: Llega un vehículo a Norte-L1 - Vehículos en cola: 8
+334.57129424349085: Vehículo en Oeste-L4 - Llegó en: 206.01459875029298 - Tiempo de cruce: 2.72 segundos - Termina en: 334.57 - Vehículos restantes en cola: 19
+336.29780961888054: Llega un vehículo a Este-L3 - Vehículos en cola: 3
+337.34018087471253: Vehículo en Oeste-L4 - Llegó en: 216.3369986612114 - Tiempo de cruce: 2.77 segundos - Termina en: 337.34 - Vehículos restantes en cola: 18
+338.44369309277215: Llega un vehículo a Este-L3 - Vehículos en cola: 4
+339.44609756356647: Vehículo en Oeste-L4 - Llegó en: 216.403643081544 - Tiempo de cruce: 2.11 segundos - Termina en: 339.45 - Vehículos restantes en cola: 17
+341.5215213221546: Llega un vehículo a Este-L3 - Vehículos en cola: 5
+341.61684442530805: Vehículo en Oeste-L4 - Llegó en: 221.77165639177053 - Tiempo de cruce: 2.17 segundos - Termina en: 341.62 - Vehículos restantes en cola: 16
+344.0347663566577: Vehículo en Oeste-L4 - Llegó en: 222.15289333660525 - Tiempo de cruce: 2.42 segundos - Termina en: 344.03 - Vehículos restantes en cola: 15
+346.64617891185526: Vehículo en Oeste-L4 - Llegó en: 231.45166179765056 - Tiempo de cruce: 2.61 segundos - Termina en: 346.65 - Vehículos restantes en cola: 14
+348.7278391648666: Vehículo en Oeste-L4 - Llegó en: 236.27226797279292 - Tiempo de cruce: 2.08 segundos - Termina en: 348.73 - Vehículos restantes en cola: 13
+349.1272667350777: Llega un vehículo a Oeste-L4 - Vehículos en cola: 13
+350.77955251478545: Llega un vehículo a Oeste-L4 - Vehículos en cola: 14
+351.2217375647096: Llega un vehículo a Este-L3 - Vehículos en cola: 6
+351.5226422575819: Vehículo en Oeste-L4 - Llegó en: 243.79376014353133 - Tiempo de cruce: 2.79 segundos - Termina en: 351.52 - Vehículos restantes en cola: 14
+352.01602787896167: Llega un vehículo a Oeste-L4 - Vehículos en cola: 14
+354.1064386263283: Vehículo en Oeste-L4 - Llegó en: 252.0524187176896 - Tiempo de cruce: 2.58 segundos - Termina en: 354.11 - Vehículos restantes en cola: 14
+355.82271115246266: Llega un vehículo a Oeste-L4 - Vehículos en cola: 14
+355.8250387243354: Llega un vehículo a Oeste-L4 - Vehículos en cola: 15
+356.34678773785663: Vehículo en Oeste-L4 - Llegó en: 255.69358295568028 - Tiempo de cruce: 2.24 segundos - Termina en: 356.35 - Vehículos restantes en cola: 15
+356.77129144634733: Llega un vehículo a Oeste-L4 - Vehículos en cola: 15
+357.64555483718016: Llega un vehículo a Este-L3 - Vehículos en cola: 7
+358.9127210395613: Vehículo en Oeste-L4 - Llegó en: 263.72144461257136 - Tiempo de cruce: 2.57 segundos - Termina en: 358.91 - Vehículos restantes en cola: 15
+359.81281053434367: Llega un vehículo a Oeste-L4 - Vehículos en cola: 15
+361.4830033649864: Llega un peatón - Peatones esperando: 8
+361.7738990854123: Vehículo en Oeste-L4 - Llegó en: 264.15467066928557 - Tiempo de cruce: 2.86 segundos - Termina en: 361.77 - Vehículos restantes en cola: 15
+362.5269107990932: Llega un vehículo a Este-L3 - Vehículos en cola: 8
+363.7385495383613: Llega un vehículo a Este-L3 - Vehículos en cola: 9
+364.0643105882574: Vehículo en Oeste-L4 - Llegó en: 273.34229702944947 - Tiempo de cruce: 2.29 segundos - Termina en: 364.06 - Vehículos restantes en cola: 14
+364.82857256936603: Llega un vehículo a Este-L3 - Vehículos en cola: 10
+365.05244019921656: Llega un vehículo a Este-L3 - Vehículos en cola: 11
+366.4705540193285: Vehículo en Oeste-L4 - Llegó en: 292.5173074101271 - Tiempo de cruce: 2.41 segundos - Termina en: 366.47 - Vehículos restantes en cola: 13
+367.6744572923973: Llega un vehículo a Norte-L1 - Vehículos en cola: 9
+368.7115569172249: Vehículo en Oeste-L4 - Llegó en: 295.5522672981299 - Tiempo de cruce: 2.24 segundos - Termina en: 368.71 - Vehículos restantes en cola: 12
+371.29717885428283: Vehículo en Oeste-L4 - Llegó en: 303.66367651017356 - Tiempo de cruce: 2.59 segundos - Termina en: 371.3 - Vehículos restantes en cola: 11
+373.5716177975051: Vehículo en Oeste-L4 - Llegó en: 307.95527532997863 - Tiempo de cruce: 2.27 segundos - Termina en: 373.57 - Vehículos restantes en cola: 10
+376.5004516753118: Vehículo en Oeste-L4 - Llegó en: 311.0250833946041 - Tiempo de cruce: 2.93 segundos - Termina en: 376.5 - Vehículos restantes en cola: 9
+378.1220277946215: Llega un vehículo a Sur-L2 - Vehículos en cola: 7
+378.5054212657049: Vehículo en Oeste-L4 - Llegó en: 316.78103357125855 - Tiempo de cruce: 2.0 segundos - Termina en: 378.51 - Vehículos restantes en cola: 8
+380.89696536250847: Vehículo en Oeste-L4 - Llegó en: 319.19178193429303 - Tiempo de cruce: 2.39 segundos - Termina en: 380.9 - Vehículos restantes en cola: 7
+383.27942658798634: Vehículo en Oeste-L4 - Llegó en: 349.1272667350777 - Tiempo de cruce: 2.38 segundos - Termina en: 383.28 - Vehículos restantes en cola: 6
+383.27942658798634: Semáforo ROJO en Oeste-L4
+Resumen Oeste-L4 -> Carros que pasaron: 25, Carros en cola: 6
+
+383.27942658798634: Paso peatonal activado - Todos en ROJO
+383.92325364785404: Llega un vehículo a Oeste-L4 - Vehículos en cola: 7
+385.96240023072966: Llega un vehículo a Sur-L2 - Vehículos en cola: 8
+388.0418939466972: Llega un vehículo a Este-L3 - Vehículos en cola: 12
+393.2910826270779: Llega un peatón - Peatones esperando: 1
+397.74234083752395: Llega un vehículo a Oeste-L4 - Vehículos en cola: 8
+398.23469546088023: Llega un vehículo a Sur-L2 - Vehículos en cola: 9
+400.27942658798634: Peatones que pasaron: 9, Peatones que quedaron: 0
+
+401.27942658798634: Semáforo VERDE en Norte-L1
+402.23436736062195: Llega un peatón - Peatones esperando: 1
+404.3093324688141: Vehículo en Norte-L1 - Llegó en: 232.19251380375692 - Tiempo de cruce: 2.03 segundos - Termina en: 404.31 - Vehículos restantes en cola: 8
+406.7579393977003: Vehículo en Norte-L1 - Llegó en: 232.47265083116758 - Tiempo de cruce: 2.45 segundos - Termina en: 406.76 - Vehículos restantes en cola: 7
+409.47861105680533: Vehículo en Norte-L1 - Llegó en: 261.35145331794496 - Tiempo de cruce: 2.72 segundos - Termina en: 409.48 - Vehículos restantes en cola: 6
+409.56405537244797: Llega un vehículo a Norte-L1 - Vehículos en cola: 6
+411.7928713692353: Vehículo en Norte-L1 - Llegó en: 277.5241917895285 - Tiempo de cruce: 2.31 segundos - Termina en: 411.79 - Vehículos restantes en cola: 6
+412.9786027544505: Llega un vehículo a Oeste-L4 - Vehículos en cola: 9
+413.853021190431: Vehículo en Norte-L1 - Llegó en: 279.4366814254681 - Tiempo de cruce: 2.06 segundos - Termina en: 413.85 - Vehículos restantes en cola: 5
+416.40383543839494: Vehículo en Norte-L1 - Llegó en: 298.20839401824077 - Tiempo de cruce: 2.55 segundos - Termina en: 416.4 - Vehículos restantes en cola: 4
+417.35538886639114: Llega un vehículo a Este-L3 - Vehículos en cola: 13
+418.42877784380323: Vehículo en Norte-L1 - Llegó en: 323.67862279916983 - Tiempo de cruce: 2.02 segundos - Termina en: 418.43 - Vehículos restantes en cola: 3
+419.2318362334991: Llega un vehículo a Este-L3 - Vehículos en cola: 14
+419.67927861165913: Llega un vehículo a Oeste-L4 - Vehículos en cola: 10
+420.8726176180291: Vehículo en Norte-L1 - Llegó en: 332.8664528168514 - Tiempo de cruce: 2.44 segundos - Termina en: 420.87 - Vehículos restantes en cola: 2
+423.85150268895813: Vehículo en Norte-L1 - Llegó en: 367.6744572923973 - Tiempo de cruce: 2.98 segundos - Termina en: 423.85 - Vehículos restantes en cola: 1
+426.6637727394336: Vehículo en Norte-L1 - Llegó en: 409.56405537244797 - Tiempo de cruce: 2.81 segundos - Termina en: 426.66 - Vehículos restantes en cola: 0
+427.10330568955203: Llega un vehículo a Oeste-L4 - Vehículos en cola: 11
+429.0065910634534: Llega un vehículo a Este-L3 - Vehículos en cola: 15
+430.24587067996356: Llega un vehículo a Sur-L2 - Vehículos en cola: 10
+431.6637727394336: Semáforo ROJO en Norte-L1
+Resumen Norte-L1 -> Carros que pasaron: 10, Carros en cola: 0
+
+431.6637727394336: Semáforo VERDE en Sur-L2
+432.3410351756511: Llega un vehículo a Norte-L1 - Vehículos en cola: 1
+433.6130898370907: Llega un vehículo a Sur-L2 - Vehículos en cola: 10
+434.52243089387554: Llega un vehículo a Oeste-L4 - Vehículos en cola: 12
+434.86449767961915: Vehículo en Sur-L2 - Llegó en: 241.69672339801394 - Tiempo de cruce: 2.2 segundos - Termina en: 434.86 - Vehículos restantes en cola: 10
+435.3651345343519: Llega un vehículo a Oeste-L4 - Vehículos en cola: 13
+435.7049087395266: Llega un vehículo a Norte-L1 - Vehículos en cola: 2
+437.8095826721198: Vehículo en Sur-L2 - Llegó en: 251.2917687321035 - Tiempo de cruce: 2.95 segundos - Termina en: 437.81 - Vehículos restantes en cola: 9
+439.0772660995642: Llega un vehículo a Este-L3 - Vehículos en cola: 16
+440.18903372970334: Vehículo en Sur-L2 - Llegó en: 283.6203999445579 - Tiempo de cruce: 2.38 segundos - Termina en: 440.19 - Vehículos restantes en cola: 8
+442.8998724050427: Vehículo en Sur-L2 - Llegó en: 290.15974469073575 - Tiempo de cruce: 2.71 segundos - Termina en: 442.9 - Vehículos restantes en cola: 7
+443.2550889134325: Llega un vehículo a Este-L3 - Vehículos en cola: 17
+445.3962530588128: Vehículo en Sur-L2 - Llegó en: 293.9546376585203 - Tiempo de cruce: 2.5 segundos - Termina en: 445.4 - Vehículos restantes en cola: 6
+447.6870512316423: Vehículo en Sur-L2 - Llegó en: 316.7094705731894 - Tiempo de cruce: 2.29 segundos - Termina en: 447.69 - Vehículos restantes en cola: 5
+450.0983639740177: Llega un vehículo a Oeste-L4 - Vehículos en cola: 14
+450.3575114068366: Vehículo en Sur-L2 - Llegó en: 378.1220277946215 - Tiempo de cruce: 2.67 segundos - Termina en: 450.36 - Vehículos restantes en cola: 4
+452.7421267076599: Vehículo en Sur-L2 - Llegó en: 385.96240023072966 - Tiempo de cruce: 2.38 segundos - Termina en: 452.74 - Vehículos restantes en cola: 3
+453.92026011177296: Llega un vehículo a Este-L3 - Vehículos en cola: 18
+454.3080756219002: Llega un vehículo a Oeste-L4 - Vehículos en cola: 15
+455.0810787009528: Vehículo en Sur-L2 - Llegó en: 398.23469546088023 - Tiempo de cruce: 2.34 segundos - Termina en: 455.08 - Vehículos restantes en cola: 2
+455.28983192779754: Llega un vehículo a Este-L3 - Vehículos en cola: 19
+457.75528718485435: Vehículo en Sur-L2 - Llegó en: 430.24587067996356 - Tiempo de cruce: 2.67 segundos - Termina en: 457.76 - Vehículos restantes en cola: 1
+458.49144529744467: Llega un peatón - Peatones esperando: 2
+458.8894531216645: Llega un vehículo a Sur-L2 - Vehículos en cola: 1
+460.1590531766977: Vehículo en Sur-L2 - Llegó en: 433.6130898370907 - Tiempo de cruce: 2.4 segundos - Termina en: 460.16 - Vehículos restantes en cola: 1
+462.50500534608096: Vehículo en Sur-L2 - Llegó en: 458.8894531216645 - Tiempo de cruce: 2.35 segundos - Termina en: 462.51 - Vehículos restantes en cola: 0
+462.50500534608096: Semáforo ROJO en Sur-L2
+Resumen Sur-L2 -> Carros que pasaron: 12, Carros en cola: 0
+
+462.50500534608096: Semáforo VERDE en Este-L3
+465.8770914412978: Vehículo en Este-L3 - Llegó en: 321.62940408127406 - Tiempo de cruce: 2.37 segundos - Termina en: 465.88 - Vehículos restantes en cola: 18
+466.9125433625639: Llega un vehículo a Oeste-L4 - Vehículos en cola: 16
+467.6151881280363: Llega un vehículo a Oeste-L4 - Vehículos en cola: 17
+468.1237122374814: Vehículo en Este-L3 - Llegó en: 323.6703871938442 - Tiempo de cruce: 2.25 segundos - Termina en: 468.12 - Vehículos restantes en cola: 17
+468.48925302877257: Llega un vehículo a Oeste-L4 - Vehículos en cola: 18
+470.6650590205181: Vehículo en Este-L3 - Llegó en: 336.29780961888054 - Tiempo de cruce: 2.54 segundos - Termina en: 470.67 - Vehículos restantes en cola: 16
+471.96307645474434: Llega un vehículo a Este-L3 - Vehículos en cola: 16
+472.4278733592061: Llega un peatón - Peatones esperando: 3
+473.1390900048198: Vehículo en Este-L3 - Llegó en: 338.44369309277215 - Tiempo de cruce: 2.47 segundos - Termina en: 473.14 - Vehículos restantes en cola: 16
+473.2439135528044: Llega un vehículo a Norte-L1 - Vehículos en cola: 3
+475.79320158119333: Vehículo en Este-L3 - Llegó en: 341.5215213221546 - Tiempo de cruce: 2.65 segundos - Termina en: 475.79 - Vehículos restantes en cola: 15
+476.93809797755716: Llega un vehículo a Este-L3 - Vehículos en cola: 15
+478.5666398702472: Vehículo en Este-L3 - Llegó en: 351.2217375647096 - Tiempo de cruce: 2.77 segundos - Termina en: 478.57 - Vehículos restantes en cola: 15
+480.78590138881054: Vehículo en Este-L3 - Llegó en: 357.64555483718016 - Tiempo de cruce: 2.22 segundos - Termina en: 480.79 - Vehículos restantes en cola: 14
+483.06327191260755: Vehículo en Este-L3 - Llegó en: 362.5269107990932 - Tiempo de cruce: 2.28 segundos - Termina en: 483.06 - Vehículos restantes en cola: 13
+483.99264603352714: Llega un vehículo a Oeste-L4 - Vehículos en cola: 19
+485.6792647477844: Vehículo en Este-L3 - Llegó en: 363.7385495383613 - Tiempo de cruce: 2.62 segundos - Termina en: 485.68 - Vehículos restantes en cola: 12
+487.46792689382147: Llega un vehículo a Oeste-L4 - Vehículos en cola: 20
+487.47056030104017: Llega un peatón - Peatones esperando: 4
+488.32790035253083: Vehículo en Este-L3 - Llegó en: 364.82857256936603 - Tiempo de cruce: 2.65 segundos - Termina en: 488.33 - Vehículos restantes en cola: 11
+489.5952366066243: Llega un vehículo a Este-L3 - Vehículos en cola: 11
+490.8907995515981: Vehículo en Este-L3 - Llegó en: 365.05244019921656 - Tiempo de cruce: 2.56 segundos - Termina en: 490.89 - Vehículos restantes en cola: 11
+491.44339896675405: Llega un vehículo a Sur-L2 - Vehículos en cola: 1
+492.0521470127297: Llega un vehículo a Este-L3 - Vehículos en cola: 11
+493.15118860905824: Vehículo en Este-L3 - Llegó en: 388.0418939466972 - Tiempo de cruce: 2.26 segundos - Termina en: 493.15 - Vehículos restantes en cola: 11
+495.5283193921263: Vehículo en Este-L3 - Llegó en: 417.35538886639114 - Tiempo de cruce: 2.38 segundos - Termina en: 495.53 - Vehículos restantes en cola: 10
+498.33683627700873: Vehículo en Este-L3 - Llegó en: 419.2318362334991 - Tiempo de cruce: 2.81 segundos - Termina en: 498.34 - Vehículos restantes en cola: 9
+498.52379199148965: Llega un vehículo a Oeste-L4 - Vehículos en cola: 21
+501.0941115630792: Vehículo en Este-L3 - Llegó en: 429.0065910634534 - Tiempo de cruce: 2.76 segundos - Termina en: 501.09 - Vehículos restantes en cola: 8
+501.5045558956876: Llega un vehículo a Oeste-L4 - Vehículos en cola: 22
+503.1549239999051: Vehículo en Este-L3 - Llegó en: 439.0772660995642 - Tiempo de cruce: 2.06 segundos - Termina en: 503.15 - Vehículos restantes en cola: 7
+503.2659853418519: Llega un vehículo a Este-L3 - Vehículos en cola: 7
+504.01031745050125: Llega un vehículo a Oeste-L4 - Vehículos en cola: 23
+506.08554839431304: Vehículo en Este-L3 - Llegó en: 443.2550889134325 - Tiempo de cruce: 2.93 segundos - Termina en: 506.09 - Vehículos restantes en cola: 7
+509.02744657579825: Vehículo en Este-L3 - Llegó en: 453.92026011177296 - Tiempo de cruce: 2.94 segundos - Termina en: 509.03 - Vehículos restantes en cola: 6
+509.9804686784826: Llega un vehículo a Este-L3 - Vehículos en cola: 6
+510.9855973787282: Llega un vehículo a Oeste-L4 - Vehículos en cola: 24
+511.32365904999824: Vehículo en Este-L3 - Llegó en: 455.28983192779754 - Tiempo de cruce: 2.3 segundos - Termina en: 511.32 - Vehículos restantes en cola: 6
+511.8905814841276: Llega un vehículo a Norte-L1 - Vehículos en cola: 4
+513.2726868411326: Llega un peatón - Peatones esperando: 5
+513.355102205134: Vehículo en Este-L3 - Llegó en: 471.96307645474434 - Tiempo de cruce: 2.03 segundos - Termina en: 513.36 - Vehículos restantes en cola: 5
+513.6398535813897: Llega un vehículo a Sur-L2 - Vehículos en cola: 2
+515.5534227972715: Vehículo en Este-L3 - Llegó en: 476.93809797755716 - Tiempo de cruce: 2.2 segundos - Termina en: 515.55 - Vehículos restantes en cola: 4
+516.161509031566: Llega un vehículo a Sur-L2 - Vehículos en cola: 3
+517.5959033596789: Vehículo en Este-L3 - Llegó en: 489.5952366066243 - Tiempo de cruce: 2.04 segundos - Termina en: 517.6 - Vehículos restantes en cola: 3
+520.3839013188176: Vehículo en Este-L3 - Llegó en: 492.0521470127297 - Tiempo de cruce: 2.79 segundos - Termina en: 520.38 - Vehículos restantes en cola: 2
+522.6403420942981: Llega un vehículo a Oeste-L4 - Vehículos en cola: 25
+522.6547627529097: Vehículo en Este-L3 - Llegó en: 503.2659853418519 - Tiempo de cruce: 2.27 segundos - Termina en: 522.65 - Vehículos restantes en cola: 1
+522.6547627529097: Semáforo ROJO en Este-L3
+Resumen Este-L3 -> Carros que pasaron: 24, Carros en cola: 1
+
+522.6547627529097: Semáforo VERDE en Oeste-L4
+523.5643456973268: Llega un vehículo a Oeste-L4 - Vehículos en cola: 25
+526.1038145356024: Vehículo en Oeste-L4 - Llegó en: 350.77955251478545 - Tiempo de cruce: 2.45 segundos - Termina en: 526.1 - Vehículos restantes en cola: 25
+529.019615313743: Vehículo en Oeste-L4 - Llegó en: 352.01602787896167 - Tiempo de cruce: 2.92 segundos - Termina en: 529.02 - Vehículos restantes en cola: 24
+530.3167213892668: Llega un vehículo a Oeste-L4 - Vehículos en cola: 24
+531.5548507008608: Vehículo en Oeste-L4 - Llegó en: 355.82271115246266 - Tiempo de cruce: 2.54 segundos - Termina en: 531.55 - Vehículos restantes en cola: 24
+534.1934165168251: Vehículo en Oeste-L4 - Llegó en: 355.8250387243354 - Tiempo de cruce: 2.64 segundos - Termina en: 534.19 - Vehículos restantes en cola: 23
+536.7661141689721: Vehículo en Oeste-L4 - Llegó en: 356.77129144634733 - Tiempo de cruce: 2.57 segundos - Termina en: 536.77 - Vehículos restantes en cola: 22
+537.9564515787145: Llega un vehículo a Este-L3 - Vehículos en cola: 2
+538.3387313508985: Llega un vehículo a Este-L3 - Vehículos en cola: 3
+539.3086906054167: Llega un vehículo a Oeste-L4 - Vehículos en cola: 22
+539.3253568565295: Llega un vehículo a Este-L3 - Vehículos en cola: 4
+539.3911825254099: Vehículo en Oeste-L4 - Llegó en: 359.81281053434367 - Tiempo de cruce: 2.63 segundos - Termina en: 539.39 - Vehículos restantes en cola: 22
+540.906510780117: Llega un vehículo a Oeste-L4 - Vehículos en cola: 22
+541.8394249557336: Llega un vehículo a Este-L3 - Vehículos en cola: 5
+542.1585916734681: Vehículo en Oeste-L4 - Llegó en: 383.92325364785404 - Tiempo de cruce: 2.77 segundos - Termina en: 542.16 - Vehículos restantes en cola: 22
+542.9846081300701: Llega un vehículo a Este-L3 - Vehículos en cola: 6
+544.7526412278287: Vehículo en Oeste-L4 - Llegó en: 397.74234083752395 - Tiempo de cruce: 2.59 segundos - Termina en: 544.75 - Vehículos restantes en cola: 21
+544.9400574395717: Llega un vehículo a Norte-L1 - Vehículos en cola: 5
+545.4888039132535: Llega un vehículo a Este-L3 - Vehículos en cola: 7
+547.0001354662033: Vehículo en Oeste-L4 - Llegó en: 412.9786027544505 - Tiempo de cruce: 2.25 segundos - Termina en: 547.0 - Vehículos restantes en cola: 20
+548.3600903663125: Llega un peatón - Peatones esperando: 6
+549.2029504577582: Vehículo en Oeste-L4 - Llegó en: 419.67927861165913 - Tiempo de cruce: 2.2 segundos - Termina en: 549.2 - Vehículos restantes en cola: 19
+550.5468727445998: Llega un vehículo a Norte-L1 - Vehículos en cola: 6
+551.519122977881: Vehículo en Oeste-L4 - Llegó en: 427.10330568955203 - Tiempo de cruce: 2.32 segundos - Termina en: 551.52 - Vehículos restantes en cola: 18
+554.0151251169785: Vehículo en Oeste-L4 - Llegó en: 434.52243089387554 - Tiempo de cruce: 2.5 segundos - Termina en: 554.02 - Vehículos restantes en cola: 17
+556.6402709240003: Vehículo en Oeste-L4 - Llegó en: 435.3651345343519 - Tiempo de cruce: 2.63 segundos - Termina en: 556.64 - Vehículos restantes en cola: 16
+559.0951986978201: Llega un peatón - Peatones esperando: 7
+559.1446315305159: Vehículo en Oeste-L4 - Llegó en: 450.0983639740177 - Tiempo de cruce: 2.5 segundos - Termina en: 559.14 - Vehículos restantes en cola: 15
+560.9180192087941: Llega un vehículo a Este-L3 - Vehículos en cola: 8
+561.7728357155056: Vehículo en Oeste-L4 - Llegó en: 454.3080756219002 - Tiempo de cruce: 2.63 segundos - Termina en: 561.77 - Vehículos restantes en cola: 14
+563.239722223823: Llega un peatón - Peatones esperando: 8
+564.2115676180839: Vehículo en Oeste-L4 - Llegó en: 466.9125433625639 - Tiempo de cruce: 2.44 segundos - Termina en: 564.21 - Vehículos restantes en cola: 13
+566.4533455680466: Vehículo en Oeste-L4 - Llegó en: 467.6151881280363 - Tiempo de cruce: 2.24 segundos - Termina en: 566.45 - Vehículos restantes en cola: 12
+569.2198073030904: Vehículo en Oeste-L4 - Llegó en: 468.48925302877257 - Tiempo de cruce: 2.77 segundos - Termina en: 569.22 - Vehículos restantes en cola: 11
+571.702277507368: Vehículo en Oeste-L4 - Llegó en: 483.99264603352714 - Tiempo de cruce: 2.48 segundos - Termina en: 571.7 - Vehículos restantes en cola: 10
+572.3044847718314: Llega un vehículo a Oeste-L4 - Vehículos en cola: 10
+573.5054137487604: Llega un vehículo a Sur-L2 - Vehículos en cola: 4
+573.8036932612536: Llega un vehículo a Oeste-L4 - Vehículos en cola: 11
+574.2445637950195: Vehículo en Oeste-L4 - Llegó en: 487.46792689382147 - Tiempo de cruce: 2.54 segundos - Termina en: 574.24 - Vehículos restantes en cola: 11
+575.4163061269392: Llega un vehículo a Sur-L2 - Vehículos en cola: 5
+577.1502992990878: Vehículo en Oeste-L4 - Llegó en: 498.52379199148965 - Tiempo de cruce: 2.91 segundos - Termina en: 577.15 - Vehículos restantes en cola: 10
+578.5995555766352: Llega un vehículo a Este-L3 - Vehículos en cola: 9
+579.200462215162: Llega un vehículo a Sur-L2 - Vehículos en cola: 6
+579.2057688875998: Llega un vehículo a Oeste-L4 - Vehículos en cola: 10
+579.3986398165598: Vehículo en Oeste-L4 - Llegó en: 501.5045558956876 - Tiempo de cruce: 2.25 segundos - Termina en: 579.4 - Vehículos restantes en cola: 10
+581.5444705409827: Llega un vehículo a Este-L3 - Vehículos en cola: 10
+581.8468167027772: Vehículo en Oeste-L4 - Llegó en: 504.01031745050125 - Tiempo de cruce: 2.45 segundos - Termina en: 581.85 - Vehículos restantes en cola: 9
+582.7185117702084: Llega un vehículo a Este-L3 - Vehículos en cola: 11
+584.4698170299575: Llega un vehículo a Este-L3 - Vehículos en cola: 12
+584.659957505735: Vehículo en Oeste-L4 - Llegó en: 510.9855973787282 - Tiempo de cruce: 2.81 segundos - Termina en: 584.66 - Vehículos restantes en cola: 8
+584.659957505735: Semáforo ROJO en Oeste-L4
+Resumen Oeste-L4 -> Carros que pasaron: 24, Carros en cola: 8
+
+584.659957505735: Paso peatonal activado - Todos en ROJO
+587.2761383890144: Llega un vehículo a Oeste-L4 - Vehículos en cola: 9
+598.2825392846665: Llega un vehículo a Este-L3 - Vehículos en cola: 13
+599.659957505735: Peatones que pasaron: 8, Peatones que quedaron: 0
+599.8774599252483: Llega un vehículo a Oeste-L4 - Vehículos en cola: 10
+
+600.659957505735: Semáforo VERDE en Norte-L1
+604.3776629912761: Vehículo en Norte-L1 - Llegó en: 432.3410351756511 - Tiempo de cruce: 2.72 segundos - Termina en: 604.38 - Vehículos restantes en cola: 5
+607.0629087608162: Vehículo en Norte-L1 - Llegó en: 435.7049087395266 - Tiempo de cruce: 2.69 segundos - Termina en: 607.06 - Vehículos restantes en cola: 4
+609.1503481906929: Vehículo en Norte-L1 - Llegó en: 473.2439135528044 - Tiempo de cruce: 2.09 segundos - Termina en: 609.15 - Vehículos restantes en cola: 3
+611.5592077600115: Vehículo en Norte-L1 - Llegó en: 511.8905814841276 - Tiempo de cruce: 2.41 segundos - Termina en: 611.56 - Vehículos restantes en cola: 2
+612.9588732096915: Llega un peatón - Peatones esperando: 1
+614.429585295816: Vehículo en Norte-L1 - Llegó en: 544.9400574395717 - Tiempo de cruce: 2.87 segundos - Termina en: 614.43 - Vehículos restantes en cola: 1
+617.265012754072: Vehículo en Norte-L1 - Llegó en: 550.5468727445998 - Tiempo de cruce: 2.84 segundos - Termina en: 617.27 - Vehículos restantes en cola: 0
+617.6941604959455: Llega un vehículo a Oeste-L4 - Vehículos en cola: 11
+619.3230372527763: Llega un vehículo a Este-L3 - Vehículos en cola: 14
+620.3953893211283: Llega un vehículo a Oeste-L4 - Vehículos en cola: 12
+624.0607467507859: Llega un vehículo a Oeste-L4 - Vehículos en cola: 13
+627.8793249955775: Llega un vehículo a Este-L3 - Vehículos en cola: 15
+627.9019673509343: Llega un vehículo a Oeste-L4 - Vehículos en cola: 14
+627.9556882754616: Llega un vehículo a Oeste-L4 - Vehículos en cola: 15
+630.7731359678252: Llega un vehículo a Sur-L2 - Vehículos en cola: 7
+631.265012754072: Semáforo ROJO en Norte-L1
+Resumen Norte-L1 -> Carros que pasaron: 6, Carros en cola: 0
+
+631.265012754072: Semáforo VERDE en Sur-L2
+635.255934800382: Vehículo en Sur-L2 - Llegó en: 491.44339896675405 - Tiempo de cruce: 2.99 segundos - Termina en: 635.26 - Vehículos restantes en cola: 6
+635.2938224179418: Llega un vehículo a Sur-L2 - Vehículos en cola: 6
+636.5836590940777: Llega un vehículo a Oeste-L4 - Vehículos en cola: 16
+636.7388521786428: Llega un vehículo a Sur-L2 - Vehículos en cola: 7
+637.534893520004: Llega un vehículo a Oeste-L4 - Vehículos en cola: 17
+637.9454004883198: Vehículo en Sur-L2 - Llegó en: 513.6398535813897 - Tiempo de cruce: 2.69 segundos - Termina en: 637.95 - Vehículos restantes en cola: 7
+639.0907614812693: Llega un peatón - Peatones esperando: 2
+640.3846662692226: Vehículo en Sur-L2 - Llegó en: 516.161509031566 - Tiempo de cruce: 2.44 segundos - Termina en: 640.38 - Vehículos restantes en cola: 6
+642.5436783819914: Vehículo en Sur-L2 - Llegó en: 573.5054137487604 - Tiempo de cruce: 2.16 segundos - Termina en: 642.54 - Vehículos restantes en cola: 5
+643.645212070731: Llega un vehículo a Este-L3 - Vehículos en cola: 16
+644.7085609144021: Vehículo en Sur-L2 - Llegó en: 575.4163061269392 - Tiempo de cruce: 2.16 segundos - Termina en: 644.71 - Vehículos restantes en cola: 4
+647.3390364671593: Vehículo en Sur-L2 - Llegó en: 579.200462215162 - Tiempo de cruce: 2.63 segundos - Termina en: 647.34 - Vehículos restantes en cola: 3
+648.0029830103288: Llega un vehículo a Norte-L1 - Vehículos en cola: 1
+649.6766992299968: Vehículo en Sur-L2 - Llegó en: 630.7731359678252 - Tiempo de cruce: 2.34 segundos - Termina en: 649.68 - Vehículos restantes en cola: 2
+652.2444305960476: Vehículo en Sur-L2 - Llegó en: 635.2938224179418 - Tiempo de cruce: 2.57 segundos - Termina en: 652.24 - Vehículos restantes en cola: 1
+653.0719019175109: Llega un vehículo a Oeste-L4 - Vehículos en cola: 18
+653.3506790735198: Llega un vehículo a Norte-L1 - Vehículos en cola: 2
+654.3175933860515: Llega un vehículo a Oeste-L4 - Vehículos en cola: 19
+654.3597910729005: Llega un peatón - Peatones esperando: 3
+654.9193002464289: Vehículo en Sur-L2 - Llegó en: 636.7388521786428 - Tiempo de cruce: 2.67 segundos - Termina en: 654.92 - Vehículos restantes en cola: 0
+655.4879308933529: Llega un vehículo a Oeste-L4 - Vehículos en cola: 20
+656.2319685340425: Llega un vehículo a Oeste-L4 - Vehículos en cola: 21
+661.9193002464289: Semáforo ROJO en Sur-L2
+Resumen Sur-L2 -> Carros que pasaron: 9, Carros en cola: 0
+
+661.9193002464289: Semáforo VERDE en Este-L3
+664.6482014543888: Llega un vehículo a Este-L3 - Vehículos en cola: 16
+665.2993007054256: Vehículo en Este-L3 - Llegó en: 509.9804686784826 - Tiempo de cruce: 2.38 segundos - Termina en: 665.3 - Vehículos restantes en cola: 16
+665.562248965558: Llega un vehículo a Este-L3 - Vehículos en cola: 16
+667.4825050154055: Vehículo en Este-L3 - Llegó en: 537.9564515787145 - Tiempo de cruce: 2.18 segundos - Termina en: 667.48 - Vehículos restantes en cola: 16
+670.1274866100973: Vehículo en Este-L3 - Llegó en: 538.3387313508985 - Tiempo de cruce: 2.64 segundos - Termina en: 670.13 - Vehículos restantes en cola: 15
+670.9250894012275: Llega un vehículo a Oeste-L4 - Vehículos en cola: 22
+673.1251628039631: Vehículo en Este-L3 - Llegó en: 539.3253568565295 - Tiempo de cruce: 3.0 segundos - Termina en: 673.13 - Vehículos restantes en cola: 14
+675.1500349714028: Vehículo en Este-L3 - Llegó en: 541.8394249557336 - Tiempo de cruce: 2.02 segundos - Termina en: 675.15 - Vehículos restantes en cola: 13
+677.1173591546084: Llega un vehículo a Este-L3 - Vehículos en cola: 13
+677.2916990097222: Vehículo en Este-L3 - Llegó en: 542.9846081300701 - Tiempo de cruce: 2.14 segundos - Termina en: 677.29 - Vehículos restantes en cola: 13
+678.6142752664636: Llega un vehículo a Oeste-L4 - Vehículos en cola: 23
+679.7067258341469: Vehículo en Este-L3 - Llegó en: 545.4888039132535 - Tiempo de cruce: 2.42 segundos - Termina en: 679.71 - Vehículos restantes en cola: 12
+680.7181815156533: Llega un vehículo a Oeste-L4 - Vehículos en cola: 24
+681.4674139605579: Llega un peatón - Peatones esperando: 4
+682.0463024499495: Vehículo en Este-L3 - Llegó en: 560.9180192087941 - Tiempo de cruce: 2.34 segundos - Termina en: 682.05 - Vehículos restantes en cola: 11
+682.4486263303894: Llega un vehículo a Oeste-L4 - Vehículos en cola: 25
+683.9914104670286: Llega un vehículo a Norte-L1 - Vehículos en cola: 3
+684.0862377851865: Llega un vehículo a Oeste-L4 - Vehículos en cola: 26
+684.2453739261307: Vehículo en Este-L3 - Llegó en: 578.5995555766352 - Tiempo de cruce: 2.2 segundos - Termina en: 684.25 - Vehículos restantes en cola: 10
+685.6790180371643: Llega un peatón - Peatones esperando: 5
+685.747215001228: Llega un vehículo a Norte-L1 - Vehículos en cola: 4
+687.0469724615734: Vehículo en Este-L3 - Llegó en: 581.5444705409827 - Tiempo de cruce: 2.8 segundos - Termina en: 687.05 - Vehículos restantes en cola: 9
+687.3707207456625: Llega un vehículo a Sur-L2 - Vehículos en cola: 1
+688.8707208874523: Llega un vehículo a Este-L3 - Vehículos en cola: 9
+689.1628747094505: Vehículo en Este-L3 - Llegó en: 582.7185117702084 - Tiempo de cruce: 2.12 segundos - Termina en: 689.16 - Vehículos restantes en cola: 9
+692.1597995277533: Vehículo en Este-L3 - Llegó en: 584.4698170299575 - Tiempo de cruce: 3.0 segundos - Termina en: 692.16 - Vehículos restantes en cola: 8
+694.1708106398364: Vehículo en Este-L3 - Llegó en: 598.2825392846665 - Tiempo de cruce: 2.01 segundos - Termina en: 694.17 - Vehículos restantes en cola: 7
+694.3940139260258: Llega un vehículo a Este-L3 - Vehículos en cola: 7
+696.3162624148318: Llega un vehículo a Este-L3 - Vehículos en cola: 8
+697.121994795337: Vehículo en Este-L3 - Llegó en: 619.3230372527763 - Tiempo de cruce: 2.95 segundos - Termina en: 697.12 - Vehículos restantes en cola: 8
+699.2745891852991: Vehículo en Este-L3 - Llegó en: 627.8793249955775 - Tiempo de cruce: 2.15 segundos - Termina en: 699.27 - Vehículos restantes en cola: 7
+700.1654447421395: Llega un vehículo a Este-L3 - Vehículos en cola: 7
+701.3561366238148: Llega un vehículo a Este-L3 - Vehículos en cola: 8
+701.3847253589237: Vehículo en Este-L3 - Llegó en: 643.645212070731 - Tiempo de cruce: 2.11 segundos - Termina en: 701.38 - Vehículos restantes en cola: 8
+703.44175899242: Vehículo en Este-L3 - Llegó en: 664.6482014543888 - Tiempo de cruce: 2.06 segundos - Termina en: 703.44 - Vehículos restantes en cola: 7
+703.8359162412496: Llega un vehículo a Oeste-L4 - Vehículos en cola: 27
+706.3078076990729: Vehículo en Este-L3 - Llegó en: 665.562248965558 - Tiempo de cruce: 2.87 segundos - Termina en: 706.31 - Vehículos restantes en cola: 6
+707.5084321358731: Llega un vehículo a Oeste-L4 - Vehículos en cola: 28
+709.0531582627588: Vehículo en Este-L3 - Llegó en: 677.1173591546084 - Tiempo de cruce: 2.75 segundos - Termina en: 709.05 - Vehículos restantes en cola: 5
+709.6478310310484: Llega un vehículo a Este-L3 - Vehículos en cola: 5
+712.0432868478465: Vehículo en Este-L3 - Llegó en: 688.8707208874523 - Tiempo de cruce: 2.99 segundos - Termina en: 712.04 - Vehículos restantes en cola: 5
+714.0778535898793: Vehículo en Este-L3 - Llegó en: 694.3940139260258 - Tiempo de cruce: 2.03 segundos - Termina en: 714.08 - Vehículos restantes en cola: 4
+716.9029774740535: Vehículo en Este-L3 - Llegó en: 696.3162624148318 - Tiempo de cruce: 2.83 segundos - Termina en: 716.9 - Vehículos restantes en cola: 3
+719.6467864439782: Llega un vehículo a Este-L3 - Vehículos en cola: 3
+719.8452337684429: Vehículo en Este-L3 - Llegó en: 700.1654447421395 - Tiempo de cruce: 2.94 segundos - Termina en: 719.85 - Vehículos restantes en cola: 3
+720.0663255239115: Llega un vehículo a Oeste-L4 - Vehículos en cola: 29
+722.0506798111297: Vehículo en Este-L3 - Llegó en: 701.3561366238148 - Tiempo de cruce: 2.21 segundos - Termina en: 722.05 - Vehículos restantes en cola: 2
+722.0506798111297: Semáforo ROJO en Este-L3
+Resumen Este-L3 -> Carros que pasaron: 24, Carros en cola: 2
+
+722.0506798111297: Semáforo VERDE en Oeste-L4
+723.1475640597541: Llega un vehículo a Oeste-L4 - Vehículos en cola: 29
+723.7634497558225: Llega un vehículo a Oeste-L4 - Vehículos en cola: 30
+725.6016000038269: Vehículo en Oeste-L4 - Llegó en: 522.6403420942981 - Tiempo de cruce: 2.55 segundos - Termina en: 725.6 - Vehículos restantes en cola: 30
+728.5535747676753: Vehículo en Oeste-L4 - Llegó en: 523.5643456973268 - Tiempo de cruce: 2.95 segundos - Termina en: 728.55 - Vehículos restantes en cola: 29
+728.9275401648277: Llega un vehículo a Oeste-L4 - Vehículos en cola: 29
+729.8098120920349: Llega un vehículo a Este-L3 - Vehículos en cola: 3
+731.1312497658391: Vehículo en Oeste-L4 - Llegó en: 530.3167213892668 - Tiempo de cruce: 2.58 segundos - Termina en: 731.13 - Vehículos restantes en cola: 29
+733.2356057908545: Vehículo en Oeste-L4 - Llegó en: 539.3086906054167 - Tiempo de cruce: 2.1 segundos - Termina en: 733.24 - Vehículos restantes en cola: 28
+735.4802155552846: Vehículo en Oeste-L4 - Llegó en: 540.906510780117 - Tiempo de cruce: 2.24 segundos - Termina en: 735.48 - Vehículos restantes en cola: 27
+736.8033846491894: Llega un vehículo a Norte-L1 - Vehículos en cola: 5
+737.6906931575645: Vehículo en Oeste-L4 - Llegó en: 572.3044847718314 - Tiempo de cruce: 2.21 segundos - Termina en: 737.69 - Vehículos restantes en cola: 26
+738.6973261703869: Llega un vehículo a Sur-L2 - Vehículos en cola: 2
+740.5319000166719: Llega un vehículo a Este-L3 - Vehículos en cola: 4
+740.5423817532366: Vehículo en Oeste-L4 - Llegó en: 573.8036932612536 - Tiempo de cruce: 2.85 segundos - Termina en: 740.54 - Vehículos restantes en cola: 25
+743.451629990346: Vehículo en Oeste-L4 - Llegó en: 579.2057688875998 - Tiempo de cruce: 2.91 segundos - Termina en: 743.45 - Vehículos restantes en cola: 24
+745.5402323734645: Vehículo en Oeste-L4 - Llegó en: 587.2761383890144 - Tiempo de cruce: 2.09 segundos - Termina en: 745.54 - Vehículos restantes en cola: 23
+746.8198611900208: Llega un vehículo a Este-L3 - Vehículos en cola: 5
+747.5953841243818: Vehículo en Oeste-L4 - Llegó en: 599.8774599252483 - Tiempo de cruce: 2.06 segundos - Termina en: 747.6 - Vehículos restantes en cola: 22
+749.9976576290267: Vehículo en Oeste-L4 - Llegó en: 617.6941604959455 - Tiempo de cruce: 2.4 segundos - Termina en: 750.0 - Vehículos restantes en cola: 21
+752.9040026941776: Vehículo en Oeste-L4 - Llegó en: 620.3953893211283 - Tiempo de cruce: 2.91 segundos - Termina en: 752.9 - Vehículos restantes en cola: 20
+755.5783008624988: Vehículo en Oeste-L4 - Llegó en: 624.0607467507859 - Tiempo de cruce: 2.67 segundos - Termina en: 755.58 - Vehículos restantes en cola: 19
+757.234934376996: Llega un vehículo a Oeste-L4 - Vehículos en cola: 19
+758.0212808809586: Llega un peatón - Peatones esperando: 6
+758.3691346313558: Vehículo en Oeste-L4 - Llegó en: 627.9019673509343 - Tiempo de cruce: 2.79 segundos - Termina en: 758.37 - Vehículos restantes en cola: 19
+758.4702157136527: Llega un vehículo a Este-L3 - Vehículos en cola: 6
+760.9187425649303: Llega un vehículo a Oeste-L4 - Vehículos en cola: 19
+761.2282156162352: Vehículo en Oeste-L4 - Llegó en: 627.9556882754616 - Tiempo de cruce: 2.86 segundos - Termina en: 761.23 - Vehículos restantes en cola: 19
+762.7001856193683: Llega un vehículo a Este-L3 - Vehículos en cola: 7
+763.5349215198152: Vehículo en Oeste-L4 - Llegó en: 636.5836590940777 - Tiempo de cruce: 2.31 segundos - Termina en: 763.53 - Vehículos restantes en cola: 18
+765.8417976868249: Vehículo en Oeste-L4 - Llegó en: 637.534893520004 - Tiempo de cruce: 2.31 segundos - Termina en: 765.84 - Vehículos restantes en cola: 17
+767.9632333765603: Llega un vehículo a Este-L3 - Vehículos en cola: 8
+768.4069481087906: Vehículo en Oeste-L4 - Llegó en: 653.0719019175109 - Tiempo de cruce: 2.57 segundos - Termina en: 768.41 - Vehículos restantes en cola: 16
+770.7511872229647: Llega un vehículo a Norte-L1 - Vehículos en cola: 6
+771.1034141429728: Vehículo en Oeste-L4 - Llegó en: 654.3175933860515 - Tiempo de cruce: 2.7 segundos - Termina en: 771.1 - Vehículos restantes en cola: 15
+772.4912356271168: Llega un peatón - Peatones esperando: 7
+773.7525811915639: Vehículo en Oeste-L4 - Llegó en: 655.4879308933529 - Tiempo de cruce: 2.65 segundos - Termina en: 773.75 - Vehículos restantes en cola: 14
+775.3135899742889: Llega un vehículo a Oeste-L4 - Vehículos en cola: 14
+775.7600916667237: Vehículo en Oeste-L4 - Llegó en: 656.2319685340425 - Tiempo de cruce: 2.01 segundos - Termina en: 775.76 - Vehículos restantes en cola: 14
+777.9412578922022: Vehículo en Oeste-L4 - Llegó en: 670.9250894012275 - Tiempo de cruce: 2.18 segundos - Termina en: 777.94 - Vehículos restantes en cola: 13
+777.9623672249845: Llega un vehículo a Oeste-L4 - Vehículos en cola: 13
+779.8413199051804: Llega un vehículo a Norte-L1 - Vehículos en cola: 7
+780.0029556495442: Llega un vehículo a Norte-L1 - Vehículos en cola: 8
+780.720160722611: Vehículo en Oeste-L4 - Llegó en: 678.6142752664636 - Tiempo de cruce: 2.78 segundos - Termina en: 780.72 - Vehículos restantes en cola: 13
+781.7816548582165: Llega un vehículo a Este-L3 - Vehículos en cola: 9
+782.9571326674395: Vehículo en Oeste-L4 - Llegó en: 680.7181815156533 - Tiempo de cruce: 2.24 segundos - Termina en: 782.96 - Vehículos restantes en cola: 12
+782.9571326674395: Semáforo ROJO en Oeste-L4
+Resumen Oeste-L4 -> Carros que pasaron: 24, Carros en cola: 12
+
+782.9571326674395: Paso peatonal activado - Todos en ROJO
+785.9690625183782: Llega un vehículo a Sur-L2 - Vehículos en cola: 3
+786.1062120149923: Llega un peatón - Peatones esperando: 1
+788.2016094829573: Llega un peatón - Peatones esperando: 2
+790.9488289614184: Llega un vehículo a Oeste-L4 - Vehículos en cola: 13
+795.8221087464304: Llega un vehículo a Sur-L2 - Vehículos en cola: 4
+797.9571326674395: Peatones que pasaron: 9, Peatones que quedaron: 0
+
+798.9571326674395: Semáforo VERDE en Norte-L1
+799.4944100851529: Llega un vehículo a Oeste-L4 - Vehículos en cola: 14
+799.7269621018456: Llega un vehículo a Oeste-L4 - Vehículos en cola: 15
+801.7310891671347: Llega un peatón - Peatones esperando: 1
+802.6227386649325: Vehículo en Norte-L1 - Llegó en: 648.0029830103288 - Tiempo de cruce: 2.67 segundos - Termina en: 802.62 - Vehículos restantes en cola: 7
+803.436898610641: Llega un vehículo a Este-L3 - Vehículos en cola: 10
+804.252893814209: Llega un vehículo a Este-L3 - Vehículos en cola: 11
+804.6903107088572: Llega un peatón - Peatones esperando: 2
+805.518336457309: Vehículo en Norte-L1 - Llegó en: 653.3506790735198 - Tiempo de cruce: 2.9 segundos - Termina en: 805.52 - Vehículos restantes en cola: 6
+806.4265807433835: Llega un vehículo a Norte-L1 - Vehículos en cola: 6
+807.6780478110708: Vehículo en Norte-L1 - Llegó en: 683.9914104670286 - Tiempo de cruce: 2.16 segundos - Termina en: 807.68 - Vehículos restantes en cola: 6
+808.9511220104803: Llega un vehículo a Este-L3 - Vehículos en cola: 12
+809.951278860184: Vehículo en Norte-L1 - Llegó en: 685.747215001228 - Tiempo de cruce: 2.27 segundos - Termina en: 809.95 - Vehículos restantes en cola: 5
+811.2014319969479: Llega un vehículo a Este-L3 - Vehículos en cola: 13
+811.5516603923704: Llega un vehículo a Oeste-L4 - Vehículos en cola: 16
+812.2527066867235: Vehículo en Norte-L1 - Llegó en: 736.8033846491894 - Tiempo de cruce: 2.3 segundos - Termina en: 812.25 - Vehículos restantes en cola: 4
+814.9010837672975: Vehículo en Norte-L1 - Llegó en: 770.7511872229647 - Tiempo de cruce: 2.65 segundos - Termina en: 814.9 - Vehículos restantes en cola: 3
+817.813860983729: Vehículo en Norte-L1 - Llegó en: 779.8413199051804 - Tiempo de cruce: 2.91 segundos - Termina en: 817.81 - Vehículos restantes en cola: 2
+819.2208282207395: Llega un vehículo a Este-L3 - Vehículos en cola: 14
+819.5172164601234: Llega un vehículo a Oeste-L4 - Vehículos en cola: 17
+820.0096934724008: Vehículo en Norte-L1 - Llegó en: 780.0029556495442 - Tiempo de cruce: 2.2 segundos - Termina en: 820.01 - Vehículos restantes en cola: 1
+821.2082345743922: Llega un vehículo a Oeste-L4 - Vehículos en cola: 18
+822.042804374118: Vehículo en Norte-L1 - Llegó en: 806.4265807433835 - Tiempo de cruce: 2.03 segundos - Termina en: 822.04 - Vehículos restantes en cola: 0
+824.2074990810253: Llega un vehículo a Oeste-L4 - Vehículos en cola: 19
+824.7544445996459: Llega un vehículo a Oeste-L4 - Vehículos en cola: 20
+825.1598622013994: Llega un vehículo a Oeste-L4 - Vehículos en cola: 21
+826.8422327041676: Llega un vehículo a Oeste-L4 - Vehículos en cola: 22
+829.042804374118: Semáforo ROJO en Norte-L1
+Resumen Norte-L1 -> Carros que pasaron: 9, Carros en cola: 0
+
+829.042804374118: Semáforo VERDE en Sur-L2
+832.0752451154312: Vehículo en Sur-L2 - Llegó en: 687.3707207456625 - Tiempo de cruce: 2.03 segundos - Termina en: 832.08 - Vehículos restantes en cola: 3
+833.278949369674: Llega un vehículo a Oeste-L4 - Vehículos en cola: 23
+834.5318702077541: Vehículo en Sur-L2 - Llegó en: 738.6973261703869 - Tiempo de cruce: 2.46 segundos - Termina en: 834.53 - Vehículos restantes en cola: 2
+837.036052830277: Vehículo en Sur-L2 - Llegó en: 785.9690625183782 - Tiempo de cruce: 2.5 segundos - Termina en: 837.04 - Vehículos restantes en cola: 1
+839.8550646307565: Vehículo en Sur-L2 - Llegó en: 795.8221087464304 - Tiempo de cruce: 2.82 segundos - Termina en: 839.86 - Vehículos restantes en cola: 0
+843.6746299717671: Llega un vehículo a Norte-L1 - Vehículos en cola: 1
+843.917543230024: Llega un vehículo a Este-L3 - Vehículos en cola: 15
+844.1721351791199: Llega un vehículo a Este-L3 - Vehículos en cola: 16
+844.9181554974128: Llega un vehículo a Este-L3 - Vehículos en cola: 17
+854.4454799008644: Llega un vehículo a Norte-L1 - Vehículos en cola: 2
+855.4874718598035: Llega un vehículo a Este-L3 - Vehículos en cola: 18
+856.1063904236523: Llega un peatón - Peatones esperando: 3
+859.8550646307565: Semáforo ROJO en Sur-L2
+Resumen Sur-L2 -> Carros que pasaron: 4, Carros en cola: 0
+
+859.8550646307565: Semáforo VERDE en Este-L3
+860.4249405568676: Llega un vehículo a Oeste-L4 - Vehículos en cola: 24
+863.1178147052464: Vehículo en Este-L3 - Llegó en: 709.6478310310484 - Tiempo de cruce: 2.26 segundos - Termina en: 863.12 - Vehículos restantes en cola: 17
+863.9585521677578: Llega un vehículo a Oeste-L4 - Vehículos en cola: 25
+864.1841999272414: Llega un vehículo a Sur-L2 - Vehículos en cola: 1
+864.2099380874569: Llega un vehículo a Oeste-L4 - Vehículos en cola: 26
+865.9678835363312: Vehículo en Este-L3 - Llegó en: 719.6467864439782 - Tiempo de cruce: 2.85 segundos - Termina en: 865.97 - Vehículos restantes en cola: 16
+868.4689279210294: Llega un peatón - Peatones esperando: 4
+868.7246200353586: Vehículo en Este-L3 - Llegó en: 729.8098120920349 - Tiempo de cruce: 2.76 segundos - Termina en: 868.72 - Vehículos restantes en cola: 15
+870.0789572560149: Llega un vehículo a Oeste-L4 - Vehículos en cola: 27
+870.8867595647249: Vehículo en Este-L3 - Llegó en: 740.5319000166719 - Tiempo de cruce: 2.16 segundos - Termina en: 870.89 - Vehículos restantes en cola: 14
+873.0512745005486: Vehículo en Este-L3 - Llegó en: 746.8198611900208 - Tiempo de cruce: 2.16 segundos - Termina en: 873.05 - Vehículos restantes en cola: 13
+875.210098070964: Llega un vehículo a Sur-L2 - Vehículos en cola: 2
+875.7315403292143: Vehículo en Este-L3 - Llegó en: 758.4702157136527 - Tiempo de cruce: 2.68 segundos - Termina en: 875.73 - Vehículos restantes en cola: 12
+876.4990976833421: Llega un vehículo a Oeste-L4 - Vehículos en cola: 28
+877.9222987248314: Vehículo en Este-L3 - Llegó en: 762.7001856193683 - Tiempo de cruce: 2.19 segundos - Termina en: 877.92 - Vehículos restantes en cola: 11
+877.9510831520603: Llega un vehículo a Este-L3 - Vehículos en cola: 11
+878.7569562011631: Llega un vehículo a Norte-L1 - Vehículos en cola: 3
+880.7513845991825: Vehículo en Este-L3 - Llegó en: 767.9632333765603 - Tiempo de cruce: 2.83 segundos - Termina en: 880.75 - Vehículos restantes en cola: 11
+883.5092720546617: Vehículo en Este-L3 - Llegó en: 781.7816548582165 - Tiempo de cruce: 2.76 segundos - Termina en: 883.51 - Vehículos restantes en cola: 10
+885.8424338745606: Vehículo en Este-L3 - Llegó en: 803.436898610641 - Tiempo de cruce: 2.33 segundos - Termina en: 885.84 - Vehículos restantes en cola: 9
+887.5306317518788: Llega un vehículo a Oeste-L4 - Vehículos en cola: 29
+887.61623345129: Llega un vehículo a Oeste-L4 - Vehículos en cola: 30
+888.013767580046: Vehículo en Este-L3 - Llegó en: 804.252893814209 - Tiempo de cruce: 2.17 segundos - Termina en: 888.01 - Vehículos restantes en cola: 8
+888.5302202876699: Llega un vehículo a Norte-L1 - Vehículos en cola: 4
+890.5234783239335: Llega un vehículo a Oeste-L4 - Vehículos en cola: 31
+890.8210200910878: Vehículo en Este-L3 - Llegó en: 808.9511220104803 - Tiempo de cruce: 2.81 segundos - Termina en: 890.82 - Vehículos restantes en cola: 7
+890.9480674295128: Llega un vehículo a Norte-L1 - Vehículos en cola: 5
+893.0813930939397: Vehículo en Este-L3 - Llegó en: 811.2014319969479 - Tiempo de cruce: 2.26 segundos - Termina en: 893.08 - Vehículos restantes en cola: 6
+895.1099769955784: Llega un peatón - Peatones esperando: 5
+895.3171697105064: Vehículo en Este-L3 - Llegó en: 819.2208282207395 - Tiempo de cruce: 2.24 segundos - Termina en: 895.32 - Vehículos restantes en cola: 5
+897.6877135851836: Vehículo en Este-L3 - Llegó en: 843.917543230024 - Tiempo de cruce: 2.37 segundos - Termina en: 897.69 - Vehículos restantes en cola: 4
+900.2965199604864: Vehículo en Este-L3 - Llegó en: 844.1721351791199 - Tiempo de cruce: 2.61 segundos - Termina en: 900.3 - Vehículos restantes en cola: 3
+902.4829983746306: Llega un vehículo a Oeste-L4 - Vehículos en cola: 32
+903.1696375328164: Vehículo en Este-L3 - Llegó en: 844.9181554974128 - Tiempo de cruce: 2.87 segundos - Termina en: 903.17 - Vehículos restantes en cola: 2
+904.3689183070057: Llega un vehículo a Este-L3 - Vehículos en cola: 2
+905.5907087564308: Vehículo en Este-L3 - Llegó en: 855.4874718598035 - Tiempo de cruce: 2.42 segundos - Termina en: 905.59 - Vehículos restantes en cola: 2
+905.6425001961071: Llega un vehículo a Sur-L2 - Vehículos en cola: 3
+908.4544461894485: Vehículo en Este-L3 - Llegó en: 877.9510831520603 - Tiempo de cruce: 2.86 segundos - Termina en: 908.45 - Vehículos restantes en cola: 1
+909.7336506649458: Llega un vehículo a Oeste-L4 - Vehículos en cola: 33
+910.4316439060359: Llega un vehículo a Este-L3 - Vehículos en cola: 1
+910.7938339505397: Vehículo en Este-L3 - Llegó en: 904.3689183070057 - Tiempo de cruce: 2.34 segundos - Termina en: 910.79 - Vehículos restantes en cola: 1
+912.3966524966568: Llega un vehículo a Este-L3 - Vehículos en cola: 1
+913.0512681472702: Vehículo en Este-L3 - Llegó en: 910.4316439060359 - Tiempo de cruce: 2.26 segundos - Termina en: 913.05 - Vehículos restantes en cola: 1
+915.2645295831222: Vehículo en Este-L3 - Llegó en: 912.3966524966568 - Tiempo de cruce: 2.21 segundos - Termina en: 915.26 - Vehículos restantes en cola: 0
+916.6736476412831: Llega un vehículo a Este-L3 - Vehículos en cola: 1
+919.9886772810308: Vehículo en Este-L3 - Llegó en: 916.6736476412831 - Tiempo de cruce: 2.72 segundos - Termina en: 919.99 - Vehículos restantes en cola: 0
+919.9886772810308: Semáforo ROJO en Este-L3
+Resumen Este-L3 -> Carros que pasaron: 23, Carros en cola: 0
+
+919.9886772810308: Semáforo VERDE en Oeste-L4
+923.3565642990065: Vehículo en Oeste-L4 - Llegó en: 682.4486263303894 - Tiempo de cruce: 2.37 segundos - Termina en: 923.36 - Vehículos restantes en cola: 32
+925.5720530466093: Vehículo en Oeste-L4 - Llegó en: 684.0862377851865 - Tiempo de cruce: 2.22 segundos - Termina en: 925.57 - Vehículos restantes en cola: 31
+926.3942460874378: Llega un vehículo a Este-L3 - Vehículos en cola: 1
+928.468473529648: Vehículo en Oeste-L4 - Llegó en: 703.8359162412496 - Tiempo de cruce: 2.9 segundos - Termina en: 928.47 - Vehículos restantes en cola: 30
+930.5350174033877: Vehículo en Oeste-L4 - Llegó en: 707.5084321358731 - Tiempo de cruce: 2.07 segundos - Termina en: 930.54 - Vehículos restantes en cola: 29
+931.2898968688985: Llega un peatón - Peatones esperando: 6
+932.3727448257893: Llega un vehículo a Oeste-L4 - Vehículos en cola: 29
+933.0167557381341: Vehículo en Oeste-L4 - Llegó en: 720.0663255239115 - Tiempo de cruce: 2.48 segundos - Termina en: 933.02 - Vehículos restantes en cola: 29
+933.6863666545398: Llega un vehículo a Este-L3 - Vehículos en cola: 2
+935.4938872813062: Vehículo en Oeste-L4 - Llegó en: 723.1475640597541 - Tiempo de cruce: 2.48 segundos - Termina en: 935.49 - Vehículos restantes en cola: 28
+938.3128431033026: Vehículo en Oeste-L4 - Llegó en: 723.7634497558225 - Tiempo de cruce: 2.82 segundos - Termina en: 938.31 - Vehículos restantes en cola: 27
+941.2974490796797: Vehículo en Oeste-L4 - Llegó en: 728.9275401648277 - Tiempo de cruce: 2.98 segundos - Termina en: 941.3 - Vehículos restantes en cola: 26
+943.7358702649449: Llega un vehículo a Oeste-L4 - Vehículos en cola: 26
+943.7716519138606: Vehículo en Oeste-L4 - Llegó en: 757.234934376996 - Tiempo de cruce: 2.47 segundos - Termina en: 943.77 - Vehículos restantes en cola: 26
+946.2778366233724: Vehículo en Oeste-L4 - Llegó en: 760.9187425649303 - Tiempo de cruce: 2.51 segundos - Termina en: 946.28 - Vehículos restantes en cola: 25
+946.2959131569244: Llega un vehículo a Sur-L2 - Vehículos en cola: 4
+948.3098717231296: Vehículo en Oeste-L4 - Llegó en: 775.3135899742889 - Tiempo de cruce: 2.03 segundos - Termina en: 948.31 - Vehículos restantes en cola: 24
+950.482222675312: Vehículo en Oeste-L4 - Llegó en: 777.9623672249845 - Tiempo de cruce: 2.17 segundos - Termina en: 950.48 - Vehículos restantes en cola: 23
+952.4830343183179: Vehículo en Oeste-L4 - Llegó en: 790.9488289614184 - Tiempo de cruce: 2.0 segundos - Termina en: 952.48 - Vehículos restantes en cola: 22
+954.5764317637987: Vehículo en Oeste-L4 - Llegó en: 799.4944100851529 - Tiempo de cruce: 2.09 segundos - Termina en: 954.58 - Vehículos restantes en cola: 21
+956.7103502004547: Vehículo en Oeste-L4 - Llegó en: 799.7269621018456 - Tiempo de cruce: 2.13 segundos - Termina en: 956.71 - Vehículos restantes en cola: 20
+956.7481374240842: Llega un vehículo a Oeste-L4 - Vehículos en cola: 20
+959.5470509356697: Vehículo en Oeste-L4 - Llegó en: 811.5516603923704 - Tiempo de cruce: 2.84 segundos - Termina en: 959.55 - Vehículos restantes en cola: 20
+962.0847915252201: Vehículo en Oeste-L4 - Llegó en: 819.5172164601234 - Tiempo de cruce: 2.54 segundos - Termina en: 962.08 - Vehículos restantes en cola: 19
+963.4266224316827: Llega un vehículo a Oeste-L4 - Vehículos en cola: 19
+964.2001069554087: Llega un peatón - Peatones esperando: 7
+964.2728437632105: Vehículo en Oeste-L4 - Llegó en: 821.2082345743922 - Tiempo de cruce: 2.19 segundos - Termina en: 964.27 - Vehículos restantes en cola: 19
+965.6763382173139: Llega un peatón - Peatones esperando: 8
+966.7405817233973: Vehículo en Oeste-L4 - Llegó en: 824.2074990810253 - Tiempo de cruce: 2.47 segundos - Termina en: 966.74 - Vehículos restantes en cola: 18
+969.0225435713625: Vehículo en Oeste-L4 - Llegó en: 824.7544445996459 - Tiempo de cruce: 2.28 segundos - Termina en: 969.02 - Vehículos restantes en cola: 17
+969.5531910251713: Llega un vehículo a Oeste-L4 - Vehículos en cola: 17
+971.829063732372: Vehículo en Oeste-L4 - Llegó en: 825.1598622013994 - Tiempo de cruce: 2.81 segundos - Termina en: 971.83 - Vehículos restantes en cola: 17
+972.1508431352795: Llega un vehículo a Este-L3 - Vehículos en cola: 3
+973.873167177702: Vehículo en Oeste-L4 - Llegó en: 826.8422327041676 - Tiempo de cruce: 2.04 segundos - Termina en: 973.87 - Vehículos restantes en cola: 16
+974.6712384383743: Llega un vehículo a Este-L3 - Vehículos en cola: 4
+975.1603920175553: Llega un vehículo a Sur-L2 - Vehículos en cola: 5
+976.0092003841905: Vehículo en Oeste-L4 - Llegó en: 833.278949369674 - Tiempo de cruce: 2.14 segundos - Termina en: 976.01 - Vehículos restantes en cola: 15
+976.3139435804122: Llega un vehículo a Oeste-L4 - Vehículos en cola: 15
+976.6773886477291: Llega un vehículo a Norte-L1 - Vehículos en cola: 6
+978.7152879790509: Vehículo en Oeste-L4 - Llegó en: 860.4249405568676 - Tiempo de cruce: 2.71 segundos - Termina en: 978.72 - Vehículos restantes en cola: 15
+981.2703725139347: Vehículo en Oeste-L4 - Llegó en: 863.9585521677578 - Tiempo de cruce: 2.56 segundos - Termina en: 981.27 - Vehículos restantes en cola: 14
+981.2703725139347: Semáforo ROJO en Oeste-L4
+Resumen Oeste-L4 -> Carros que pasaron: 25, Carros en cola: 14
+
+981.2703725139347: Paso peatonal activado - Todos en ROJO
+982.8923099817282: Llega un vehículo a Este-L3 - Vehículos en cola: 5
+986.2812829032072: Llega un vehículo a Oeste-L4 - Vehículos en cola: 15
+987.0890295695334: Llega un vehículo a Este-L3 - Vehículos en cola: 6
+988.6963980851331: Llega un vehículo a Este-L3 - Vehículos en cola: 7
+989.4395788137347: Llega un vehículo a Oeste-L4 - Vehículos en cola: 16
+990.2736903328013: Llega un vehículo a Este-L3 - Vehículos en cola: 8
+991.9676312099119: Llega un vehículo a Sur-L2 - Vehículos en cola: 6
+996.2703725139347: Peatones que pasaron: 8, Peatones que quedaron: 0
+996.9033367894963: Llega un vehículo a Este-L3 - Vehículos en cola: 9
+
+997.2703725139347: Semáforo VERDE en Norte-L1
+997.5021914283186: Llega un vehículo a Sur-L2 - Vehículos en cola: 7
+999.7391714629433: Llega un vehículo a Este-L3 - Vehículos en cola: 10
+
+===== RESULTADOS FINALES DE LA SIMULACIÓN =====
+
+>>> Vehículos <<<
+Norte-L1:
+  Total de vehículos que pasaron: 37
+  Vehículos que quedaron en espera: 5
+Sur-L2:
+  Total de vehículos que pasaron: 41
+  Vehículos que quedaron en espera: 7
+Este-L3:
+  Total de vehículos que pasaron: 107
+  Vehículos que quedaron en espera: 10
+Oeste-L4:
+  Total de vehículos que pasaron: 121
+  Vehículos que quedaron en espera: 16
+
+>>> Peatones <<<
+Total de peatones que lograron cruzar: 39
+Total de peatones que quedaron esperando: 0
+
+===== FIN DE LOS RESULTADOS =====

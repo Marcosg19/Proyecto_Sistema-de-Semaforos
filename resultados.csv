@@ -1,0 +1,5 @@
+Escenario,Repeticion,Peatones_Pasados,Peatones_Cola,Espera_Prom_Veh,Espera_Prom_Pea,Tamaño_Cola_Veh,Tamaño_Cola_Pea,Norte-L1_Pasados,Norte-L1_Cola,Sur-L2_Pasados,Sur-L2_Cola,Este-L3_Pasados,Este-L3_Cola,Oeste-L4_Pasados,Oeste-L4_Cola
+Escenario_1,3.0,41.8,17.4,329.19185200701406,301.8773542970287,35.1,17.4,37.8,41.8,39.8,52.2,235.6,4.4,206.6,42.0
+Escenario_2,3.0,59.6,0.8,263.6835673625325,25.170778943146956,52.9,0.8,79.4,6.0,73.4,11.6,143.2,104.8,143.8,89.2
+Escenario_3,3.0,60.6,1.4,268.82031847051576,42.815092062205686,47.75,1.4,83.2,12.6,74.0,17.2,164.4,80.0,169.4,81.2
+Escenario_4,3.0,50.4,10.6,312.86979825442415,146.50832748010004,39.6,10.6,50.4,46.8,52.0,43.0,220.0,29.2,213.8,39.4

@@ -1,0 +1,4 @@
+scalar Escenario_3 TiempoEsperaVehiculos 268.8203
+scalar Escenario_3 TiempoEsperaPeatones 42.8151
+scalar Escenario_3 TamanoColaVehiculos 47.75
+scalar Escenario_3 TamanoColaPeatones 1.4
