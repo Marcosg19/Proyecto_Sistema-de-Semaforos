@@ -207,6 +207,8 @@ for escenario in ESCENARIOS:
     plt.title(f"Tiempos de Espera Promedio por Fase - {escenario['nombre']}")
     plt.legend()
     plt.grid(True)
+    plt.ylim(0,1000)
+    plt.xticks([1, 2, 3, 4, 5])
     plt.tight_layout()
     plt.savefig(f"Grafica_TiemposEspera_{escenario['nombre']}.png")
     plt.close()

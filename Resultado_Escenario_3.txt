@@ -9,116 +9,116 @@ Oeste-L4: 60 segundos
 Repetición 1:
 
 >>> Vehículos <<<
-Norte-L1 -> Pasaron: 111 | En espera: 8
-Tiempo Promedio de Espera: 114.32 seg
-Sur-L2 -> Pasaron: 110 | En espera: 8
-Tiempo Promedio de Espera: 115.95 seg
-Este-L3 -> Pasaron: 357 | En espera: 131
-Tiempo Promedio de Espera: 498.85 seg
-Oeste-L4 -> Pasaron: 367 | En espera: 129
-Tiempo Promedio de Espera: 490.61 seg
+Norte-L1 -> Pasaron: 99 | En espera: 6
+Tiempo Promedio de Espera: 96.32 seg
+Sur-L2 -> Pasaron: 121 | En espera: 7
+Tiempo Promedio de Espera: 163.14 seg
+Este-L3 -> Pasaron: 352 | En espera: 125
+Tiempo Promedio de Espera: 435.37 seg
+Oeste-L4 -> Pasaron: 361 | En espera: 120
+Tiempo Promedio de Espera: 408.76 seg
 
 >>> Peatones <<<
-Cruzaron: 123
+Cruzaron: 122
 En espera: 0
-Tiempo Promedio Espera Peatones: 46.3 seg
+Tiempo Promedio Espera Peatones: 37.2 seg
 
 -------------------------------------
 
 Repetición 2:
 
 >>> Vehículos <<<
-Norte-L1 -> Pasaron: 123 | En espera: 6
-Tiempo Promedio de Espera: 151.94 seg
-Sur-L2 -> Pasaron: 110 | En espera: 12
-Tiempo Promedio de Espera: 143.22 seg
-Este-L3 -> Pasaron: 355 | En espera: 104
-Tiempo Promedio de Espera: 452.2 seg
-Oeste-L4 -> Pasaron: 359 | En espera: 78
-Tiempo Promedio de Espera: 395.85 seg
+Norte-L1 -> Pasaron: 114 | En espera: 5
+Tiempo Promedio de Espera: 114.39 seg
+Sur-L2 -> Pasaron: 125 | En espera: 5
+Tiempo Promedio de Espera: 139.27 seg
+Este-L3 -> Pasaron: 362 | En espera: 143
+Tiempo Promedio de Espera: 537.07 seg
+Oeste-L4 -> Pasaron: 362 | En espera: 122
+Tiempo Promedio de Espera: 598.95 seg
 
 >>> Peatones <<<
-Cruzaron: 116
-En espera: 3
-Tiempo Promedio Espera Peatones: 68.85 seg
+Cruzaron: 130
+En espera: 0
+Tiempo Promedio Espera Peatones: 34.45 seg
 
 -------------------------------------
 
 Repetición 3:
 
 >>> Vehículos <<<
-Norte-L1 -> Pasaron: 115 | En espera: 4
-Tiempo Promedio de Espera: 110.16 seg
-Sur-L2 -> Pasaron: 112 | En espera: 10
-Tiempo Promedio de Espera: 118.13 seg
-Este-L3 -> Pasaron: 356 | En espera: 96
-Tiempo Promedio de Espera: 389.45 seg
-Oeste-L4 -> Pasaron: 363 | En espera: 132
-Tiempo Promedio de Espera: 542.52 seg
+Norte-L1 -> Pasaron: 132 | En espera: 12
+Tiempo Promedio de Espera: 130.12 seg
+Sur-L2 -> Pasaron: 111 | En espera: 7
+Tiempo Promedio de Espera: 101.02 seg
+Este-L3 -> Pasaron: 354 | En espera: 90
+Tiempo Promedio de Espera: 378.47 seg
+Oeste-L4 -> Pasaron: 363 | En espera: 166
+Tiempo Promedio de Espera: 624.41 seg
 
 >>> Peatones <<<
-Cruzaron: 126
-En espera: 0
-Tiempo Promedio Espera Peatones: 34.87 seg
+Cruzaron: 110
+En espera: 3
+Tiempo Promedio Espera Peatones: 37.22 seg
 
 -------------------------------------
 
 Repetición 4:
 
 >>> Vehículos <<<
-Norte-L1 -> Pasaron: 123 | En espera: 8
-Tiempo Promedio de Espera: 142.75 seg
-Sur-L2 -> Pasaron: 125 | En espera: 9
-Tiempo Promedio de Espera: 146.85 seg
-Este-L3 -> Pasaron: 355 | En espera: 145
-Tiempo Promedio de Espera: 518.82 seg
-Oeste-L4 -> Pasaron: 355 | En espera: 137
-Tiempo Promedio de Espera: 602.69 seg
+Norte-L1 -> Pasaron: 130 | En espera: 5
+Tiempo Promedio de Espera: 137.55 seg
+Sur-L2 -> Pasaron: 100 | En espera: 4
+Tiempo Promedio de Espera: 98.2 seg
+Este-L3 -> Pasaron: 362 | En espera: 146
+Tiempo Promedio de Espera: 531.36 seg
+Oeste-L4 -> Pasaron: 363 | En espera: 113
+Tiempo Promedio de Espera: 416.65 seg
 
 >>> Peatones <<<
-Cruzaron: 108
+Cruzaron: 106
 En espera: 1
-Tiempo Promedio Espera Peatones: 39.82 seg
+Tiempo Promedio Espera Peatones: 26.9 seg
 
 -------------------------------------
 
 Repetición 5:
 
 >>> Vehículos <<<
-Norte-L1 -> Pasaron: 102 | En espera: 10
-Tiempo Promedio de Espera: 100.01 seg
-Sur-L2 -> Pasaron: 121 | En espera: 5
-Tiempo Promedio de Espera: 132.47 seg
-Este-L3 -> Pasaron: 356 | En espera: 112
-Tiempo Promedio de Espera: 476.04 seg
-Oeste-L4 -> Pasaron: 354 | En espera: 99
-Tiempo Promedio de Espera: 434.65 seg
+Norte-L1 -> Pasaron: 120 | En espera: 7
+Tiempo Promedio de Espera: 134.33 seg
+Sur-L2 -> Pasaron: 111 | En espera: 6
+Tiempo Promedio de Espera: 129.14 seg
+Este-L3 -> Pasaron: 355 | En espera: 127
+Tiempo Promedio de Espera: 379.03 seg
+Oeste-L4 -> Pasaron: 364 | En espera: 70
+Tiempo Promedio de Espera: 400.4 seg
 
 >>> Peatones <<<
-Cruzaron: 134
-En espera: 0
-Tiempo Promedio Espera Peatones: 45.98 seg
+Cruzaron: 125
+En espera: 4
+Tiempo Promedio Espera Peatones: 41.76 seg
 
 -------------------------------------
 
 ===== RESUMEN GENERAL DEL ESCENARIO =====
 
 Norte-L1:
-Promedio Tiempo Espera Vehículos: 123.84 seg
-Tamaño Promedio Cola Vehículos: 7.2
+Promedio Tiempo Espera Vehículos: 122.54 seg
+Tamaño Promedio Cola Vehículos: 7.0
 
 Sur-L2:
-Promedio Tiempo Espera Vehículos: 131.33 seg
-Tamaño Promedio Cola Vehículos: 8.8
+Promedio Tiempo Espera Vehículos: 126.15 seg
+Tamaño Promedio Cola Vehículos: 5.8
 
 Este-L3:
-Promedio Tiempo Espera Vehículos: 467.07 seg
-Tamaño Promedio Cola Vehículos: 117.6
+Promedio Tiempo Espera Vehículos: 452.26 seg
+Tamaño Promedio Cola Vehículos: 126.2
 
 Oeste-L4:
-Promedio Tiempo Espera Vehículos: 493.27 seg
-Tamaño Promedio Cola Vehículos: 115.0
+Promedio Tiempo Espera Vehículos: 489.83 seg
+Tamaño Promedio Cola Vehículos: 118.2
 
 >>> Peatones <<<
-Promedio Tiempo Espera Peatones: 47.16 seg
-Tamaño Promedio Cola Peatones: 0.8
+Promedio Tiempo Espera Peatones: 35.51 seg
+Tamaño Promedio Cola Peatones: 1.6
